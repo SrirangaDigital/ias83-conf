@@ -27,18 +27,32 @@
             <div class="intro logos">
                 <p>
                     <img src="<?=PUBLIC_URL?>images/logo.png" alt="IAS Logo" /><br />
-                    <img src="<?=PUBLIC_URL?>images/stock/iiser-bhopal-logo.png" alt="IISER Bhopal Logo" />
+                    <img src="<?=PUBLIC_URL?>images/stock/nehulogo.png" alt="North-Eastern Hill University Logo" />
                 </p>
             </div>
         </div>
         <div class="col-md-10">
             <div class="intro">
                 <p>The Indian Academy of Sciences, Bengaluru, through many scientific meetings, symposia, and public lectures it organizes, aims to facilitate scientific exchange among researchers and to highlight novel findings both within the scientific community and the public. The Mid-Year Meetings held during July at Bengaluru and the Annual Meetings held during November at different scientific institutions in the country are the two major annual events of the Academy in this context. The events every year see enthusiastic participation of the Fellowship of the Academy along with researchers, teachers, students and other invitees across the nation.</p>
-                <p>The <strong>82nd Annual Meeting of the Academy</strong> is being organized during <strong>4th&ndash;6th November 2016 at the Indian Institute of Science Education and Research (IISER), Bhopal.</strong></p>
+                <p>The <strong>83nd Annual Meeting of the Academy</strong> is being organized during <strong>3rd&ndash;5th November 2017 at North-Eastern Hill University, Shillong.</strong></p>
             </div>
         </div>
     </div>        
 </div>
+
+
+<div class="container clear-paddings" id="registration">
+      <div class="row">
+          <div class="col-md-12">
+             <p class="subtitle fancy"><span class="text">Registration</span></p>
+          </div>
+      </div>
+      <div class="row">
+          <div class="col-md-12">
+             <p class="reg">Fellows of the Academy and invited teachers who have not yet registered,<br /> please register <a href="http://web-japps.ias.ac.in:8080/Annualmeeting2017/annual/register/Register.jsp" target="_blank">here</a></p>
+          </div>
+      </div>
+  </div>
 
 <!--Speakers -->
 <div class="container-fluid" id="speakers">

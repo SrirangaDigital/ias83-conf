@@ -10,8 +10,9 @@
     <div class="row">
         <div class="col-md-9 main">
             <h1>Downloads</h1>
+            <h2>Coming Soon...</h2>
             
-            <ul class="general-list">
+<!--             <ul class="general-list">
                 <li>
                     <strong>Abstracts of Lectures</strong><br />
                     <a target="_blank" href="<?=DOWNLOAD_URL?>Abstract_Book.pdf">Speaker Profiles and Abstracts</a><br />
@@ -31,7 +32,7 @@
                     <strong>Logistics</strong><br />
                     <a target="_blank" href="<?=PUBLIC_URL?>images/stock/iiser-bhopal-master-plan.jpg">IISER Bhopal - Campus map</a>
                 </li>
-            </ul>
+            </ul> -->
         </div>
         <div class="col-md-3 sidebar">
 <?php require_once('application/views/generalSidebar.php');?>

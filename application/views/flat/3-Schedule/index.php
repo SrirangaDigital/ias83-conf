@@ -661,81 +661,79 @@ $(document).ready(function() {
                 </div>
                 <div class="schedule-text" id="allied">
                     <h3>Allied Events</h3>
-                    <h3>3 November 2016 (Thursday)</h3>
+                    <h3>1 November 2017 (Wednesday)</h3>
                     <div class="session">
                         <dl class="dl-horizontal">
                             <dt>
-                                09.00 AM<br />
-                                <div class="more-info"><a target="_blank" title="More Information" href="<?=DOWNLOAD_URL?>TAcT_Agenda.pdf"><i class="fa fa-info-circle"></i></a></div>
+                                10.30 AM - 01.00 PM<br />
+                                <div class="more-info"><a target="_blank" title="More Information" href="#"><i class="fa fa-info-circle"></i></a></div>
                             </dt>
                             <dd>
-                                <span class="speaker">The Academy Trust (TAcT) Programme</span><br />
-                                Venue: Visitors’ Hostel – Auditorium<br />
-                            </dd>
-                        </dl>
-                        <dl class="dl-horizontal">
-                            <dt>
-                                10.00 AM
-                            </dt>
-                            <dd>
-                                <span class="speaker">Academy Publications Committee Meeting</span><br />
-                                EES Conference Room, 1st Floor, Academy Building II<br />
-                            </dd>
-                        </dl>
-                        <dl class="dl-horizontal">
-                            <dt>
-                                02.30 PM
-                            </dt>
-                            <dd>
-                                <span class="speaker">Editorial Board Meeting – Pramana</span><br />
-                                EES Conference Room, 1st Floor, Academy Building II<br />
-                            </dd>
-                        </dl>
-                        <dl class="dl-horizontal">
-                            <dt>
-                                04.00 PM - 05.30 PM
-                            </dt>
-                            <dd>
-                                <span class="speaker">Meeting with Teachers</span><br />
-                                Visitors’ Hostel: Auditorium<br />
-                            </dd>
-                        </dl>
-                        <dl class="dl-horizontal">
-                            <dt>
-                                06.00 PM
-                            </dt>
-                            <dd>
-                                <span class="speaker">Press conference</span><br />
-                                L2, Lecture Hall Complex<br />
-                            </dd>
-                        </dl>
-                        <dl class="dl-horizontal">
-                            <dt>
-                                07.00 PM
-                            </dt>
-                            <dd>
-                                <span class="speaker">Talk by Prof. CNR Rao<br />
-                                L5, Lecture Hall Complex<br />
+                                <span class="speaker">The Academy Trust (TAcT) Programme for school students</span><br />
+                                Venue: St. Paul’s Higher Secondary School, Shillong.<br />
                             </dd>
                         </dl>          
                     </div>
-                    <h3>5 November 2016 (Saturday)</h3>
+                    <h3>2 November 2017 (Thursday)</h3>
                     <div class="session">
                         <dl class="dl-horizontal">
                             <dt>
-                                04.00 PM - 05.30 PM
+                                03.00 PM
                             </dt>
                             <dd>
-                                <span class="speaker">Business Meeting of Fellows</span><br />
-                                 L3, Lecture Hall Complex<br />
+                                <span class="speaker">Editorial Board Meeting – Pramana</span><br />
+                                Venue: Committee room, Vice-chancellor’s office<br />
                                 <span class="talk"></span>
                             </dd>
                         </dl>                        
-                    </div>                        
+                        <dl class="dl-horizontal">
+                            <dt>
+                                05.00 PM
+                            </dt>
+                            <dd>
+                                <span class="speaker">Press Conference</span><br />
+                                Venue: <br />
+                                <span class="talk"></span>
+                            </dd>
+                        </dl>                        
+                        <dl class="dl-horizontal">
+                            <dt>
+                                03.00 PM - 05.00 PM
+                            </dt>
+                            <dd>
+                                <span class="speaker">Meeting with Teachers</span><br />
+                                Venue: Committee room, New Guest House<br />
+                                <span class="talk"></span>
+                            </dd>
+                        </dl>                        
+                    </div> 
+                    <h3>4 November 2017 (Saturday)</h3>
+                    <div class="session">
+                        <dl class="dl-horizontal">
+                            <dt>
+                                09.30 AM
+                            </dt>
+                            <dd>
+                                <span class="speaker">Editorial Board Meeting – Bulletin of Material Sciences</span><br />
+                                Venue: Committee room, Vice-chancellor’s office<br />
+                                <span class="talk"></span>
+                            </dd>
+                        </dl>                        
+                        <dl class="dl-horizontal">
+                            <dt>
+                                04.30 PM
+                            </dt>
+                            <dd>
+                                <span class="speaker">Business Meeting of Fellows</span><br />
+                                Venue: Auditorium, Old Guest House<br />
+                                <span class="talk"></span>
+                            </dd>
+                        </dl>
+                    </div>                                               
                 </div>
                 <div class="schedule-text" id="spouse">
                     <h3>For Spouses</h3>
-                    <h3>4 November 2016 (Friday)</h3>
+<!--                     <h3>4 November 2016 (Friday)</h3>
                     <div class="session">
                         <dl class="dl-horizontal">
                             <dt>
@@ -758,7 +756,7 @@ $(document).ready(function() {
                                 (Bus will start from Visitors' Hostel at 9:30 AM)<br />
                             </dd>
                         </dl>
-                    </div>    
+                    </div> -->    
                 </div>
             </div>
         </div>
