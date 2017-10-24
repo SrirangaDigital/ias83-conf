@@ -53,263 +53,262 @@ $(document).ready(function() {
                     <li><a href="#spouse">For Spouses</a></li>
                 </ul>
                 <div class="schedule-text" id="day1">
-                    <h3>4 November 2016 (Friday)</h3>
+                    <h3>3 November 2017 (Friday)</h3>
 
                     <div class="session">
                         <dl class="dl-horizontal">
                             <dt>
-                                0900 - 0930
+                                0900 – 0930
                             </dt>
                             <dd>
-                                <span class="aux">Registration</span><br />(Venue: Lecture Hall Complex)
-                            </dd>
-                        </dl>
-                        <dl class="dl-horizontal">
-                            <dt>
-                                0930 - 1000
-                            </dt>
-                            <dd>
-                                <span class="aux">Inauguration and introduction of Fellows</span>
+                                <span class="aux">Registration</span>
                             </dd>
                         </dl>
                     </div>
                     <div class="session">
-                        <span class="type">Session 1A - Presidential Address</span><br /><br />
+                        <span class="type">Session 1A: Inauguration and Presidential Address</span><br /><br />
                         <dl class="dl-horizontal">
                             <dt>
-                                1000 - 1045<br />
-                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>Speakers/Ram_Ramaswamy">
+                                0930 – 1100<br />
+                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>describe/profile/1508569913576">
                                 <i class="fa fa-info-circle"></i></a>
                                 </div>
                             </dt>
                             <dd>
                                 <span class="speaker">Ram Ramaswamy</span><br />
                                 JNU, New Delhi<br />
-                                <span class="talk">Chimeras: A spontaneous emergence of dynamical disorder</span>
+                                <span class="talk">The many flavours of synchrony</span>
                             </dd>
                         </dl>
                         <dl class="dl-horizontal">
                             <dt>
-                                1045 - 1130<br />
-                                <div class="more-info"><a target="_blank" title="More Information" href="<?=DOWNLOAD_URL?>A_Life_in_Science_Invite.pdf"><i class="fa fa-info-circle"></i></a></div>
+                                1100 – 1115
                             </dt>
                             <dd>
-                                <span class="aux">Book release</span><br />
-                                <span class="talk">A Life in Science – Author: Prof. C N R Rao,</span><br />Published by Penguin Random House India
+                                <span class="aux">Group Photograph</span><br />
+                                <span class="talk">Venue: Amphitheatre</span>
                             </dd>
                         </dl>
                     </div>
                     <div class="break">
                         <dl class="dl-horizontal">
                             <dt>
-                                1135 - 1200
+                                1115 – 1200
                             </dt>
-                            <dd>Group Photograph &amp; Tea break</dd>
+                            <dd>Tea break</dd>
                         </dl>
                     </div>
                     <div class="session">
-                        <span class="type">Session 1B - Inaugural Lectures of Fellows/Associates</span><br />
-                        Chairperson: Subrata Ghosh, IACS, Kolkata<br /><br />
+                        <span class="type">Session 1B: Inaugural Lectures by Fellows</span><br />
+                        Chairperson: M M Sarin, Physical Research laboratory, Ahmedabad<br /><br />
                         <dl class="dl-horizontal">
                             <dt>
-                                1200 - 1220<br />
-                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>Speakers/Arun_Chattopadhyay">
+                                1200 – 1220<br />
+                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>describe/profile/1508570403836">
                                 <i class="fa fa-info-circle"></i></a></div>
                             </dt>
                             <dd>
-                                <span class="speaker">Arun Chattopadhyay</span><br />
-                                IIT-Guwahati<br />
-                                <span class="talk">Decorating the surface of a quantum dot with molecules</span>
+                                <span class="speaker">Shailesh Nayak</span><br />
+                                Ministry of Earth Sciences, New Delhi<br />
+                                <span class="talk">Towards the Understanding of Triggered Earthquakes</span>
                             </dd>
                         </dl>
                         <dl class="dl-horizontal">
                             <dt>
-                                1225 - 1245<br />
-                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>Speakers/Sanjib_Agarwalla">
+                                1225 – 1245<br />
+                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>describe/profile/1508571107398">
                                 <i class="fa fa-info-circle"></i></a>&nbsp;
-                                <a target="_blank" title="Click here to see the presentation" href="<?=PUBLIC_URL?>pdf/82ndAM_Lectures/SBAgarwalla.pdf">
-                                <i class="fa fa-paperclip"></i></a>
                                 </div>
                             </dt>
                             <dd>
-                                <span class="speaker">Sanjib K Agarwalla,</span><br />
-                                IOP, Bhubaneswar<br />
-                                <span class="talk">Neutrino oscillation parameters: Present status and future roadmap</span>
+                                <span class="speaker">Gobinda Majumder</span><br />
+                                Tata Institute of Fundamental Research, Mumbai<br />
+                                <span class="talk">A Journey to the Discovery of Higgs Boson</span>
                             </dd>
                         </dl>
                     </div>
                     <div class="break">
                         <dl class="dl-horizontal">
                             <dt>
-                                1250 - 1400
+                                1250 – 1400
                             </dt>
                             <dd>Lunch Break</dd>
                         </dl>
                     </div>
                     <div class="session">
-                        <span class="type">Session 1C - Inaugural Lectures of Fellows</span><br />
-                        (Venue: Auditorium – Visitors’ Hostel)<br />
-                        Chairperson: Probir Roy, Kolkata<br /><br />
+                        <span class="type">Session 1C: Inaugural Lectures by Fellow/Associate</span><br />
+                        Chairperson: S Ananthakrishnan, Savitribai Phule Pune University, Pune<br /><br />
                         <dl class="dl-horizontal">
                             <dt>
-                                1400 - 1420<br />
-                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>Speakers/Javed_Agrewala">
+                                1400 – 1420<br />
+                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>describe/profile/1508571423313">
                                 <i class="fa fa-info-circle"></i></a></div>
                             </dt>
                             <dd>
-                                <span class="speaker">Javed N Agrewala</span><br />
-                                IMTECH, Chandigarh<br />
-                                <span class="talk">Caerulomycin A suppresses arthritis symptoms by expanding regulatory T cells</span>
+                                <span class="speaker">G D Yadav</span><br />
+                                Institute of Chemical Technology, Mumbai<br />
+                                <span class="talk">Selectivity Engineering in Sustainable Production of Chemicals, Fuels and Energy from Biomass and Carbon Dioxide</span>
                             </dd>
                         </dl>                        
                         <dl class="dl-horizontal">
                             <dt>
-                                1425 - 1445<br />
-                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>Speakers/Raghuram_A"><i class="fa fa-info-circle"></i></a>&nbsp;
-                                <a target="_blank" title="Click here to see the presentation" href="<?=PUBLIC_URL?>pdf/82ndAM_Lectures/ARaghuram.pdf">
-                                <i class="fa fa-paperclip"></i></a>
+                                1425 – 1445<br />
+                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>describe/profile/1508575237271"><i class="fa fa-info-circle"></i></a>
                                 </div>
                             </dt>
                             <dd>
-                                <span class="speaker">A Raghuram</span><br />
-                                IISER, Pune<br />
-                                <span class="talk">From calculus to number theory</span>
+                                <span class="speaker">Abhishek Banerjee</span><br />
+                                Indian Institute of Science, Bengaluru<br />
+                                <span class="talk">What is finiteness?</span>
                             </dd>
                         </dl>
                     </div>
                     <div class="break">
                         <dl class="dl-horizontal">
                             <dt>
-                                1450 - 1530
+                                1450 - 1520
                             </dt>
                             <dd>Tea break</dd>
                         </dl>
                     </div>                    
                     <div class="session">
-                        <span class="type">Session 1D - Walter Kohn Memorial Symposium</span><br />
-                        (Venue: Visitors’ Hostel)<br />
-                        Chairperson: H R Krishnamurthy, IISc, Bengaluru<br /><br />                                    
+                        <span class="type">Session 1D: Symposium: ‘New Technologies Changing our lives’</span><br />
+                        Chairperson: N Viswanadham, Indian Institute of Science, Bengaluru<br /><br />      
                         <dl class="dl-horizontal">
                             <dt>
-                                1530<br />
-                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>Speakers/T_V_Ramakrishnan"><i class="fa fa-info-circle"></i></a>&nbsp;
-                                <a target="_blank" title="Click here to see the presentation" href="<?=PUBLIC_URL?>pdf/82ndAM_Lectures/TVRamakrishnan.pdf">
-                                <i class="fa fa-paperclip"></i></a>
-                                </div>
+                                1520 – 1530
                             </dt>
                             <dd>
-                                <span class="speaker">T V Ramakrishnan</span><br />
-                                BHU, Varanasi<br />
-                                <span class="talk">Walter Kohn and the rise of condensed matter physics</span>
+                                <span class="speaker">Introduction</span>
                             </dd>
                         </dl>                        
                         <dl class="dl-horizontal">
                             <dt>
-                                1600<br />
-                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>Speakers/Swapan_K_Ghosh"><i class="fa fa-info-circle"></i></a></div>
+                                1530 – 1600<br />
+                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>describe/profile/1508575295367"><i class="fa fa-info-circle"></i></a></div>
                             </dt>
                             <dd>
-                                <span class="speaker">Swapan K Ghosh</span><br />
-                                BARC, Mumbai<br />
-                                <span class="talk">Density functional theory for materials modeling at different length scales: A legacy of Walter Kohn</span>
+                                <span class="speaker">Navakanta Bhat</span><br />
+                                Indian Institute of Science, Bengaluru<br />
+                                <span class="talk">PathShodh: A Journey from Science to Product</span>
                             </dd>
                         </dl>                       
                         <dl class="dl-horizontal">
                             <dt>
-                                1630<br />
-                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>Speakers/Tanusri_Sahadasgupta"><i class="fa fa-info-circle"></i></a></div>
+                                1600 – 1630<br />
+                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>describe/profile/1508575347695"><i class="fa fa-info-circle"></i></a></div>
                             </dt>
                             <dd>
-                                <span class="speaker">Tanusri Saha-Dasgupta</span><br />
-                                SN Bose Natl. Centre for Basic Sciences, Kolkata<br />
-                                <span class="talk">Beyond the conventional DFT: Life with “U”</span>
+                                <span class="speaker">V Padmanabhan</span><br />
+                                Microsoft Research India, Bengaluru<br />
+                                <span class="talk">Low-cost IoT to address societal challenges</span>
                             </dd>
                         </dl>
                         <dl class="dl-horizontal">
                             <dt>
-                                1700<br />
-                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>Speakers/Umesh_V_Waghmare"><i class="fa fa-info-circle"></i></a></div>
+                                1630 – 1700<br />
+                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>describe/profile/1508575417180"><i class="fa fa-info-circle"></i></a></div>
                             </dt>
                             <dd>
-                                <span class="speaker">Umesh V Waghmare</span><br />
-                                JNCASR, Bengaluru<br />
-                                <span class="talk">Electrons in a crystal: Localized versus extended orbitals</span>
+                                <span class="speaker">A Bharadwaj</span><br />
+                                Indian Institute of Science, Bengaluru<br />
+                                <span class="talk">IoT and its Applications for Smart Cities</span>
+                            </dd>
+                        </dl>                        
+                        <dl class="dl-horizontal">
+                            <dt>
+                                1700 – 1730<br />
+                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>describe/profile/1508578388184"><i class="fa fa-info-circle"></i></a></div>
+                            </dt>
+                            <dd>
+                                <span class="speaker">Jaywant H Arakeri</span><br />
+                                Indian Institute of Science, Bengaluru<br />
+                                <span class="talk">Technological and scientific issues related to precision agriculture</span>
+                            </dd>
+                        </dl>                        
+                        <dl class="dl-horizontal">
+                            <dt>
+                                1730 – 1740
+                            </dt>
+                            <dd>
+                                <span class="speaker">Discussion</span>
                             </dd>
                         </dl>                    
                     </div>
                     <div class="break">
                         <dl class="dl-horizontal">
                             <dt>
-                                1730 - 1800
+                                1740 - 1800
                             </dt>
                             <dd>Tea Break</dd>
                         </dl>
                     </div>
                     <div class="session">
                         <span class="type">Session 1E - Public lecture</span><br />
-                        (Venue: L5 &mdash; Lecture Hall Complex)<br />
-                        Chairperson: Ram Ramaswamy, JNU, New Delhi<br /><br />
+                        Chairperson: Ram Ramaswamy, Jawaharlal Nehru University, New Delhi<br /><br />
                         <dl class="dl-horizontal">
                             <dt>
                                 1800 - 1900<br />
-                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>Speakers/Rajendra_Singh"><i class="fa fa-info-circle"></i></a></div>
+                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>describe/profile/1508578479647"><i class="fa fa-info-circle"></i></a></div>
                             </dt>
                             <dd>
-                                <span class="speaker">Rajendra Singh</span><br />
-                                Tarun Bharat Sangh, Alwar (Rajasthan)<br />
-                                <span class="talk">Indigenous knowledge system of water management in India</span>
+                                <span class="speaker">David R Syiemlieh</span><br />
+                                Union Public Service Commission, New Delhi<br />
+                                <span class="talk">Percival Spear: Historian and Indophile</span>
                             </dd>
                         </dl>                                                
+                    </div>
+                    <div class="break">
+                        <dl class="dl-horizontal">
+                            <dt>
+                                1930
+                            </dt>
+                            <dd>Dinner</dd>
+                        </dl>
                     </div>                    
                 </div>                        
                 <div class="schedule-text" id="day2">
-                    <h3>5 November 2016 (Saturday)</h3>
+                    <h3>4 November 2017 (Saturday)</h3>
                     <div class="session">
                         <span class="type">Session 2A - Special Lecture</span><br />
-                        (Venue: Auditorium – Visitors’ Hostel)<br />
-                        Chairperson: Subhash Chaturvedi, IISER Bhopal<br /><br />                    
+                        Chairperson: S Chandrasekaran, Indian Institute of Science, Bengaluru<br /><br />                    
                         <dl class="dl-horizontal">
                             <dt>
                                 0900 - 0940<br />
-                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>Speakers/Sunil_Mukhi"><i class="fa fa-info-circle"></i></a></div>
+                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>describe/profile/1508578565488"><i class="fa fa-info-circle"></i></a></div>
                             </dt>
                             <dd>
-                                <span class="speaker">Sunil Mukhi</span><br />
-                                IISER Pune
-                                <br />
-                                <span class="talk">Academic ethics in India: What we must do</span>
+                                <span class="speaker">R Bhatia</span><br />
+                                Ashoka University, Sonepat<br />
+                                <span class="talk">Averaging of positive definite matrices</span>
                             </dd>
                         </dl>                                                
                     </div> 
                     <div class="session">
-                        <span class="type">Session 2B - Inaugural Lectures of Fellows/Associates</span><br />
-                        Chairperson: S Thangavelu, IISc, Bengaluru<br /><br />
+                        <span class="type">Session 2B: Inaugural Lectures by Fellows</span><br />
+                        Chairperson: Veena K Parnaik, Centre for Cellular &amp; Molecular Biology, Hyderabad<br /><br />
                         <dl class="dl-horizontal">
                             <dt>
                                 0940 - 1000<br />
-                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>Speakers/Pradyut_Ghosh"><i class="fa fa-info-circle"></i></a>&nbsp;
-                                <a target="_blank" title="Click here to see the presentation" href="<?=PUBLIC_URL?>pdf/82ndAM_Lectures/PGhosh.pdf">
-                                <i class="fa fa-paperclip"></i></a>
+                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>describe/profile/1508578634671"><i class="fa fa-info-circle"></i></a>
                                 </div>
                             </dt>
                             <dd>
-                                <span class="speaker">Pradyut Ghosh</span><br />
-                                IACS, Kolkata<br />
-                                <span class="talk">Recognition, sensing, separation of anions</span>
+                                <span class="speaker">S Sankararaman</span><br />
+                                Indian Institute of Technology, Chennai<br />
+                                <span class="talk">Restricting rotation of triple bond through p-stacking interactions in molecular hinges</span>
                             </dd>
                         </dl>                                            
                         <dl class="dl-horizontal">
                             <dt>
                                 1005 - 1025<br />
-                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>Speakers/Ankur_Kulkarni"><i class="fa fa-info-circle"></i></a>&nbsp;
-                                <a target="_blank" title="Click here to see the presentation" href="<?=PUBLIC_URL?>pdf/82ndAM_Lectures/AAKulkarni.pdf">
-                                <i class="fa fa-paperclip"></i></a>
+                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>describe/profile/1508578708917"><i class="fa fa-info-circle"></i></a>
                                 </div>
                             </dt>
                             <dd>
-                                <span class="speaker">Ankur A Kulkarni</span><br />
-                                IIT-Bombay<br />
-                                <span class="talk">Towards a convex-analytic view of impossibility results in stochastic control and information theory</span>
+                                <span class="speaker">Maneesha S Inamdar</span><br />
+                                Jawaharlal Nehru Centre for Advanced Scientific Research, Bengaluru<br />
+                                <span class="talk">Stuck in traffic: Transport and energy regulation in blood stem cells</span>
                             </dd>
                         </dl>                        
                     </div>
@@ -322,139 +321,131 @@ $(document).ready(function() {
                         </dl>
                     </div>           
                     <div class="session">
-                        <span class="type">Session 2C - Symposium “Our Second Genome”</span><br />
-                        Chairperson: Partha P Majumder, NIBMG, Kolkata<br /><br />
+                        <span class="type">Session 2C: Symposium: ‘Earth Science of the North-East’</span><br />
+                        Chairperson: R Ramesh, National Institute of Science Education and Research, Bhubaneswar<br /><br />
                         <dl class="dl-horizontal">
                             <dt>
-                                1050<br />
-                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>Speakers/Partha_P_Majumder"><i class="fa fa-info-circle"></i></a>&nbsp;
-                                <a target="_blank" title="Click here to see the presentation" href="<?=PUBLIC_URL?>pdf/82ndAM_Lectures/PPMjumder.pdf">
-                                <i class="fa fa-paperclip"></i></a>
-                                </div>
+                                1050 - 1100
                             </dt>
                             <dd>
-                                <span class="speaker">Partha P Majumder</span><br />
-                                NIBMG, Kolkata
-                                <br />
-                                <span class="talk">An overview of our second genome</span>
+                                <span class="speaker">Introduction</span>
                             </dd>
                         </dl>
                         <dl class="dl-horizontal">
                             <dt>
-                                1110<br />
-                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>Speakers/Sharmila_Mande"><i class="fa fa-info-circle"></i></a>&nbsp;
-                                <a target="_blank" title="Click here to see the presentation" href="<?=PUBLIC_URL?>pdf/82ndAM_Lectures/SSMande.pdf">
-                                <i class="fa fa-paperclip"></i></a>
+                                1100 – 1130<br />
+                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>describe/profile/1508578754980"><i class="fa fa-info-circle"></i></a>
                                 </div>
                             </dt>
                             <dd>
-                                <span class="speaker">Sharmila S Mande</span><br />
-                                TCS, Pune<br />
-                                <span class="talk">Gut microbiome and human health</span>
+                                <span class="speaker">Devesh Walia</span><br />
+                                North-Eastern Hill University, Shillong<br />
+                                <span class="talk">Study on active tectonics of Shillong Plateau</span>
                             </dd>
                         </dl>                        
                         <dl class="dl-horizontal">
                             <dt>
-                                1140<br />
-                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>Speakers/Vineet_K_Sharma"><i class="fa fa-info-circle"></i></a></div>
+                                1130 – 1200<br />
+                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>describe/profile/1508578815850"><i class="fa fa-info-circle"></i></a></div>
                             </dt>
                             <dd>
-                                <span class="speaker">Vineet K Sharma</span><br />
-                                IISER, Bhopal
+                                <span class="speaker">Rajneesh Bhutani</span><br />
+                                Pondicherry University, Puducherry
                                 <br />
-                                <span class="talk">Novel insights into the human microbiome</span>
+                                <span class="talk">Origin of Manipur Ophiolite Complex, Indo-Myanmar Range, Northeastern India</span>
                             </dd>
                         </dl>                        
                         <dl class="dl-horizontal">
                             <dt>
-                                1210<br />
-                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>Speakers/Souvik_Mukherjee"><i class="fa fa-info-circle"></i></a>&nbsp;
-                                <a target="_blank" title="Click here to see the presentation" href="<?=PUBLIC_URL?>pdf/82ndAM_Lectures/SMukherjee.pdf">
-                                <i class="fa fa-paperclip"></i></a>
+                                1200 – 1230<br />
+                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>describe/profile/1508578881325"><i class="fa fa-info-circle"></i></a>
                                 </div>
                             </dt>
                             <dd>
-                                <span class="speaker">Souvik Mukherjee</span><br />
-                                NIBMG, Kolkata
+                                <span class="speaker">Amalava Bhattacharyya</span><br />
+                                Birbal Sahni Institute of Paleosciences, Lucknow
                                 <br />
-                                <span class="talk">The microbiome in skin health and disease</span>
+                                <span class="talk">Changes of vegetation vis-à-vis Climate since last several thousand years at North-East India</span>
                             </dd>
                         </dl>                        
                         <dl class="dl-horizontal">
                             <dt>
-                                1240<br />
-                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>Speakers/Shekhar_Mande"><i class="fa fa-info-circle"></i></a>&nbsp;
-                                <a target="_blank" title="Click here to see the presentation" href="<?=PUBLIC_URL?>pdf/82ndAM_Lectures/SCMande.pdf">
-                                <i class="fa fa-paperclip"></i></a>
+                                1230 – 1300<br />
+                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>describe/profile/1508578929762"><i class="fa fa-info-circle"></i></a>
                                 </div>
                             </dt>
                             <dd>
-                                <span class="speaker">Shekhar C Mande</span><br />
-                                NCCS, Pune
+                                <span class="speaker">J S Ray</span><br />
+                                Physical Research Laboratory, Ahmedabad
                                 <br />
-                                <span class="talk">The Indian human microbiome initiative</span>
+                                <span class="talk">Cretaceous carbonatite-alkaline-basaltic magmatism in North-eastern India and Gondwanaland breakup</span>
+                            </dd>
+                        </dl>                        
+                        <dl class="dl-horizontal">
+                            <dt>
+                                1300 – 1310
+                            </dt>
+                            <dd>
+                                <span class="speaker">Discussion</span>
                             </dd>
                         </dl>                        
                     </div>                           
                     <div class="break">
                         <dl class="dl-horizontal">
                             <dt>
-                                1300 - 1400
+                                1310 - 1400
                             </dt>
                             <dd>Lunch break</dd>
                         </dl>
                     </div>
                     <div class="session">
-                        <span class="type">Session 2D - Inaugural Lectures of Fellows/Associates</span><br />
-                        Chairperson: P N Pandita, IISc, Bengaluru<br /><br />                    
+                        <span class="type">Session 2D: Inaugural Lectures by Associates/Fellow</span><br />
+                        Chairperson: H M Antia, Tata Institute of Fundamental Research, Mumbai<br /><br />                    
                         <dl class="dl-horizontal">
                             <dt>
                                 1400 - 1420<br />
-                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>Speakers/G_C_Anupama"><i class="fa fa-info-circle"></i></a></div>
+                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>describe/profile/1508578970512"><i class="fa fa-info-circle"></i></a></div>
                             </dt>
                             <dd>
-                                <span class="speaker">G C Anupama</span><br />
-                                IIA, Bengaluru
+                                <span class="speaker">Aditya Kumar</span><br />
+                                Tezpur University, Tezpur
                                 <br />
-                                <span class="talk">Time domain astronomy – Explosive transients</span>
+                                <span class="talk">Unveiling DNA structural properties of promoter regions of prokaryotic transcriptome and their role in gene expression</span>
                             </dd>
                         </dl>                    
                         <dl class="dl-horizontal">
                             <dt>
                                 1425 - 1445<br />
-                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>Speakers/S_Ganesh"><i class="fa fa-info-circle"></i></a></div>
+                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>describe/profile/1508579173678"><i class="fa fa-info-circle"></i></a></div>
                             </dt>
                             <dd>
-                                <span class="speaker">S Ganesh</span><br />
-                                IIT-Kanpur
+                                <span class="speaker">D K Ojha</span><br />
+                                Tata Institute of Fundamental Research, Mumbai 
                                 <br />
-                                <span class="talk">Role of non-coding RNAs in cellular stress response</span>
+                                <span class="talk">Star formation in the Milky Way Galaxy</span>
                             </dd>
                         </dl>
                         <dl class="dl-horizontal">
                             <dt>
                                 1450 - 1510<br />
-                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>Speakers/K_N_Balaji"><i class="fa fa-info-circle"></i></a></div>
+                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>describe/profile/1508579240692"><i class="fa fa-info-circle"></i></a></div>
                             </dt>
                             <dd>
-                                <span class="speaker">K N Balaji</span><br />
-                                IISc, Bengaluru<br />
-                                <span class="talk">Mycobacteria scapegoat host epigenetic factors and non-coding RNAs to sneak through host immune responses</span>
+                                <span class="speaker">Giridhar U Kulkarni</span><br />
+                                Centre for Nano &amp; Soft Matter Sciences, Bengaluru<br />
+                                <span class="talk">From mud cracks to Optoelectronic devices – our efforts in translating invention to technology</span>
                             </dd>
                         </dl>                        
                         <dl class="dl-horizontal">
                             <dt>
                                 1515 - 1535<br />
-                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>Speakers/Anshu_Pandey"><i class="fa fa-info-circle"></i></a>&nbsp;
-                                <a target="_blank" title="Click here to see the presentation" href="<?=PUBLIC_URL?>pdf/82ndAM_Lectures/APandey.pdf">
-                                <i class="fa fa-paperclip"></i></a>
+                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>describe/profile/1508579345904"><i class="fa fa-info-circle"></i></a>
                                 </div>
                             </dt>
                             <dd>
-                                <span class="speaker">Anshu Pandey</span><br />
-                                IISc, Bengaluru
-                                <br />
-                                <span class="talk">Chemistry with bigger atoms</span>
+                                <span class="speaker">Y Dhandapani</span><br />
+                                Indian Statistical Institute, Bengaluru<br />
+                                <span class="talk">Geometry and topology on random point clouds</span>
                             </dd>
                         </dl>                        
                     </div>
@@ -467,14 +458,13 @@ $(document).ready(function() {
                         </dl>
                     </div>
                     <div class="session">
-                        (Venue: L3 – Lecture Hall Complex)                        
+                        Venue: Auditorium, Old Guest House                        
                         <dl class="dl-horizontal">
                             <dt>
                                 1600 - 1730
                             </dt>
                             <dd>
-                                <span class="speaker">Business Meeting of Fellows</span><br />
-                                <span class="talk"></span>
+                                <span class="speaker">Business Meeting of Fellows</span>
                             </dd>
                         </dl>
                     </div>                                                                     
@@ -483,179 +473,156 @@ $(document).ready(function() {
                             <dt>
                                 1730 - 1800
                             </dt>
-                            <dd>Tea break</dd>
+                            <dd>High Tea</dd>
                         </dl>
                     </div>
                     <div class="session">
                         <span class="type">Session 2E - Public Lecture</span><br />
-                        Chairperson: Ram Ramaswamy, JNU, New Delhi<br /><br />                    
+                        Chairperson: R Ramaswamy, Jawaharlal Nehru University, New Delhi<br /><br />                    
                         <dl class="dl-horizontal">
                             <dt>
                                 1800 - 1900<br />
-                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>Speakers/Ravi_Korisettar"><i class="fa fa-info-circle"></i></a>&nbsp;
-                                <a target="_blank" title="Click here to see the presentation" href="<?=PUBLIC_URL?>pdf/82ndAM_Lectures/RKorisettar.pdf">
-                                <i class="fa fa-paperclip"></i></a>
+                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>describe/profile/1508579421484"><i class="fa fa-info-circle"></i></a>
                                 </div>
                             </dt>
                             <dd>
-                                <span class="speaker">Ravi Korisettar</span><br />
-                                Dr VS Wakankar Archaeological Research Institute, Dharwad
+                                <span class="speaker">Sanjoy Hazarika</span><br />
+                                Commonwealth Human Rights Initiative, New Delhi
                                 <br />
-                                <span class="talk">Importance of the Vindhya basin in the prehistory of the Indian subcontinent</span>
+                                <span class="talk">Dilli door Ast? The Margins, Memory and Identity</span>
                             </dd>
                         </dl>                        
                     </div>
+                    <div class="session">
+                        <dl class="dl-horizontal">
+                            <dt>
+                                1900 – 2000
+                            </dt>
+                            <dd>
+                                <span class="aux">Cultural Programme</span><br />
+                                Venue: TBD
+                            </dd>
+                        </dl>                    
+                    </div>                        
                     <div class="break">
                         <dl class="dl-horizontal">
                             <dt>
-                                1900 - 2000
+                                2000
                             </dt>
                             <dd>Dinner</dd>
                         </dl>
                     </div>
-                    <div class="session">
-                        <dl class="dl-horizontal">
-                            <dt>
-                                2000<br />
-                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>Schedule/mehfil"><i class="fa fa-info-circle"></i></a></div>
-                            </dt>
-                            <dd>
-                                <span class="aux">Cultural Programme</span><br />
-                                <span class="speaker">Mehfil-e-Sama</span><br />
-                                A Qawwali Night by Emerald The Band<br />
-                                (Venue: L5– Lecture Hall Complex)<br />
-                            </dd>
-                        </dl>                    
-                    </div>                        
                 </div>
                 <div class="schedule-text" id="day3">
-                    <h3>6 November 2016 (Sunday)</h3>
+                    <h3>5 November 2017 (Sunday)</h3>
                     <div class="session">
-                        <span class="type">Session 3A - Inaugural Lectures of Fellows/Associates</span><br />
-                        (Venue: Auditorium – Visitors’ Hostel)<br />
-                        Chairperson: S S Sane, IIT-Bombay<br /><br />
+                        <span class="type">Session 3A: Inaugural Lectures by Associates/Fellow</span><br />
+                        Chairperson: S Sivasanker, Indian Institute of Technology, Chennai<br /><br />
                         <dl class="dl-horizontal">
                             <dt>
-                                0900 - 0920<br />
-                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>Speakers/K_P_Kaliappan"><i class="fa fa-info-circle"></i></a></div>
+                                0900 – 0920<br />
+                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>describe/profile/1508579467434"><i class="fa fa-info-circle"></i></a></div>
                             </dt>
                             <dd>
-                                <span class="speaker">Krishna P Kaliappan</span><br />
-                                IIT-Bombay<br />
-                                <span class="talk">Domino strategy to synthesis of natural products and heterocycles</span>
+                                <span class="speaker">K Yhoshu</span><br />
+                                Nagaland University, Lumami<br />
+                                <span class="talk">Remote sensing and GIS application for geohazard studies </span>
                             </dd>
                         </dl>
                         <dl class="dl-horizontal">
                             <dt>
-                                0925 - 0945<br />
-                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>Speakers/Appa_Rao_Podile"><i class="fa fa-info-circle"></i></a>&nbsp;
-                                <a target="_blank" title="Click here to see the presentation" href="<?=PUBLIC_URL?>pdf/82ndAM_Lectures/ARPodile.pdf">
-                                <i class="fa fa-paperclip"></i></a>
+                                0925 – 0945<br />
+                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>describe/profile/1508579513314"><i class="fa fa-info-circle"></i></a>
                                 </div>
                             </dt>
                             <dd>
-                                <span class="speaker">Appa Rao Podile</span><br />
-                                University of Hyderabad, Hyderabad<br />
-                                <span class="talk">Transglycosylation by bacterial chitinases</span>
+                                <span class="speaker">Ashutosh Ghosh</span><br />
+                                University of Calcutta, Kolkata<br />
+                                <span class="talk">Hetero-metallic complexes derived from N2O2 donor ligands: Molecular shapes, supramolecular structures, catalysis and magnetism</span>
                             </dd>
                         </dl>
                         <dl class="dl-horizontal">
                             <dt>
-                                0950 - 1010<br />
-                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>Speakers/N_Ravishankar"><i class="fa fa-info-circle"></i></a>&nbsp;
-                                <a target="_blank" title="Click here to see the presentation" href="<?=PUBLIC_URL?>pdf/82ndAM_Lectures/NRavishankar.pdf">
-                                <i class="fa fa-paperclip"></i></a>
+                                0950 – 1010<br />
+                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>describe/profile/1508579567303"><i class="fa fa-info-circle"></i></a>
                                 </div>
                             </dt>
                             <dd>
-                                <span class="speaker">N Ravishankar</span><br />
-                                IISc, Bengaluru<br />
-                                <span class="talk">Intriguing structure and transport behaviour of ultrathin single crystalline gold nanowires</span>
-                            </dd>
-                        </dl>                                                                                            
-                        <dl class="dl-horizontal">
-                            <dt>
-                                1015-1035<br />
-                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>Speakers/B_Anand"><i class="fa fa-info-circle"></i></a></div>
-                            </dt>
-                            <dd>
-                                <span class="speaker">B Anand</span><br />
-                                IIT, Guwahati<br />
-                                <span class="talk">Homing mechanism of the CRISPR-Cas adaptive immune system</span>
+                                <span class="speaker">Subhro Bhattacharjee</span><br />
+                                International Centre for Theoretical Sciences, Bengaluru <br />
+                                <span class="talk">Quantum matter: Life beyond symmetries</span>
                             </dd>
                         </dl>
                     </div>
                     <div class="break">
                         <dl class="dl-horizontal">
                             <dt>
-                                1040 - 1100
+                                1015 – 1045
                             </dt>
                             <dd>Tea break</dd>
                         </dl>
                     </div>           
                     <div class="session">
-                        <span class="type">Session 3B - Inaugural Lectures of Fellows/Associates</span><br />
-                        Chairperson: S V Bhat, IISc, Bengaluru<br /><br />                    
+                        <span class="type">Session 3B: Inaugural Lectures by Associate/Fellows</span><br />
+                        Chairperson: S N Tandon, Inter-University Centre for Astronomy &amp; Astrophysics, Pune<br /><br />                    
                         <dl class="dl-horizontal">
                             <dt>
-                                1100 - 1120<br />
-                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>Speakers/Tirthankar_Bhattacharyya"><i class="fa fa-info-circle"></i></a>&nbsp;
-                                <a target="_blank" title="Click here to see the presentation" href="<?=PUBLIC_URL?>pdf/82ndAM_Lectures/TBhattacharyya.pdf">
-                                <i class="fa fa-paperclip"></i></a></div>
+                                1045 – 1105<br />
+                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>describe/profile/1508579612074"><i class="fa fa-info-circle"></i></a>
+                                </div>
                             </dt>
                             <dd>
-                                <span class="speaker">Tirthankar Bhattacharyya</span><br />
-                                IISc, Bengaluru<br />
-                                <span class="talk">What do analytic functions look like?</span>
+                                <span class="speaker">Piyush Srivastava</span><br />
+                                Tata Institute of Fundamental Research, Mumbai<br />
+                                <span class="talk">Structure recovery in graphical models</span>
                             </dd>
                         </dl>
                         <dl class="dl-horizontal">
                             <dt>
-                                1125 - 1145<br />
-                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>Speakers/Pratap_Raychaudhuri"><i class="fa fa-info-circle"></i></a>&nbsp;
-                                <a target="_blank" title="Click here to see the presentation" href="<?=PUBLIC_URL?>pdf/82ndAM_Lectures/PRaychaudhuri.pdf">
-                                <i class="fa fa-paperclip"></i></a></div>
+                                1110 – 1130<br />
+                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>describe/profile/1508580872780"><i class="fa fa-info-circle"></i></a>
+                                </div>
                             </dt>
                             <dd>
-                                <span class="speaker">Pratap Raychaudhuri</span><br />
-                                TIFR, Mumbai<br />
-                                <span class="talk">Low temperature scanning tunneling spectroscopy</span>
+                                <span class="speaker">Kaustuv Sanyal</span><br />
+                                Jawaharlal Nehru Centre for Advanced Scientific Research, Bengaluru<br />
+                                <span class="talk">Molecular evolution of the process of chromosome segregation: Lessons from fungal pathogens</span>
                             </dd>
                         </dl>                        
                         <dl class="dl-horizontal">
                             <dt>
-                                1150 - 1210<br />
-                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>Speakers/G_R_Tripathy"><i class="fa fa-info-circle"></i></a></div>
+                                1135 – 1155<br />
+                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>describe/profile/1508580905111"><i class="fa fa-info-circle"></i></a>
+                                </div>
                             </dt>
                             <dd>
-                                <span class="speaker">G R Tripathy</span><br />
-                                IISER Pune<br />
-                                <span class="talk">Re-Os geochronology: Clues for past marine and atmospheric 
-                                conditions</span>
+                                <span class="speaker">Swapan K Datta</span><br />
+                                Visva-Bharati, Santiniketan<br />
+                                <span class="talk">Biofortified Rice with stable enhanced Nutrition</span>
                             </dd>
                         </dl>                        
                     </div>
                     <div class="session">
                         <span class="type">Session 3C - Special Lecture</span><br />
-                        Chairperson: S Chandrasekaran, IISc, Bengaluru<br /><br />
+                        Chairperson: S S Krishnamurthy, Indian Institute of Science, Bengaluru<br /><br />
                         <dl class="dl-horizontal">
                             <dt>
-                                1215 - 1300<br />
-                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>Speakers/Amitabh_Joshi"><i class="fa fa-info-circle"></i></a></div>
+                                1200 – 1240<br />
+                                <div class="more-info"><a target="_blank" title="More Information" href="<?=BASE_URL?>describe/profile/1508581081913"><i class="fa fa-info-circle"></i></a></div>
                             </dt>
                             <dd>
-                                <span class="speaker">Amitabh Joshi</span><br />
-                                JNCASR, Bengaluru<br />
-                                <span class="talk">Experimental ecology and evolution in the laboratory</span>
+                                <span class="speaker">Lalit Kumar</span><br />
+                                All India Institute of Medical Sciences, New Delhi<br />
+                                <span class="talk">Targeted therapy for cancer treatment: Have we found the magic bullet!</span>
                             </dd>
                         </dl>                                                                    
                     </div>
                     <div class="break">
                         <dl class="dl-horizontal">
                             <dt>
-                                1300 - 1400
+                                1240
                             </dt>
-                            <dd>Lunch</dd>
+                            <dd>Lunch Break</dd>
                         </dl>
                     </div>                                                                     
                 </div>
