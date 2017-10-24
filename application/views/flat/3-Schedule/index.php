@@ -50,7 +50,7 @@ $(document).ready(function() {
                     <li><a href="#day2">Day 2</a></li>
                     <li><a href="#day3">Day 3</a></li>
                     <li><a href="#allied">Allied Events</a></li>
-                    <li><a href="#spouse">For Spouses</a></li>
+                    <li><a href="#spouse">For Teachers' and Spouses</a></li>
                 </ul>
                 <div class="schedule-text" id="day1">
                     <h3>3 November 2017 (Friday)</h3>
@@ -699,31 +699,78 @@ $(document).ready(function() {
                     </div>                                               
                 </div>
                 <div class="schedule-text" id="spouse">
-                    <h3>For Spouses</h3>
-<!--                     <h3>4 November 2016 (Friday)</h3>
+                    <h3>Teachers' Programme</h3>
+                    <h3>2 November 2017 (Thursday)</h3>
                     <div class="session">
                         <dl class="dl-horizontal">
                             <dt>
-                                2.00 PM
+                                2.00 PM - 3.00 PM
                             </dt>
                             <dd>
-                                <span class="speaker">Visit to Sanchi Stupas</span><br />
-                                (Bus will start from Visitors' Hostel at 2:00 PM)<br />
+                                <span class="speaker">Visit to Sophisticated Instrumentation Facility 
+                                (SAIF), NEHU, (near Central Library)</span>
+                            </dd>
+                        </dl>
+                        <dl class="dl-horizontal">
+                            <dt>
+                                3.00 PM - 4.30 PM
+                            </dt>
+                            <dd>
+                                <span class="speaker">Visit to Central Instrumentation Facility, School of Life Sciences</span>
+                            </dd>
+                        </dl>
+                    </div>
+                    <h3>Spouse programme</h3>
+                    <p>The LOC will facilitate an organized tour during the meeting days to places of tourist’s interest as per the details below:</p>                    
+                    <h3>3 November 2017 (Friday)</h3>
+                    <div class="session">
+                        <dl class="dl-horizontal">
+                            <dt>
+                                9.00 AM – 1.00 PM
+                            </dt>
+                            <dd>
+                                <span class="speaker">Visit to the Don Bosco Museum</span>
+                            </dd>
+                        </dl>                        
+                        <dl class="dl-horizontal">
+                            <dt>
+                                1.00 PM – 2.00 PM
+                            </dt>
+                            <dd>
+                                <span class="speaker">Lunch (NEHU Campus)</span>
+                            </dd>
+                        </dl>                        
+                        <dl class="dl-horizontal">
+                            <dt>
+                                2.00 PM – 5.00 PM
+                            </dt>
+                            <dd>
+                                <span class="speaker">Visit to Police Bazar (popular market)</span>
+                            </dd>
+                        </dl>
+                    </div>
+                    <h3>4 November 2017 (Saturday)</h3>
+                    <div class="session">
+                        <dl class="dl-horizontal">
+                            <dt>
+                                9.00 AM – 5.00 PM
+                            </dt>
+                            <dd>
+                                <span class="speaker">Local Sight Seeing</span>
                             </dd>
                         </dl>
                     </div>                    
-                    <h3>5 November 2016 (Saturday)</h3>
+                    <h3>5 November 2017 (Sunday)</h3>
                     <div class="session">
                         <dl class="dl-horizontal">
                             <dt>
-                                9.30 AM
+                                9.00 AM – 1.00 PM
                             </dt>
                             <dd>
-                                <span class="speaker">Visit to Indira Gandhi Rashtriya Manav Sangrahalaya and Upper Lake</span><br />
-                                (Bus will start from Visitors' Hostel at 9:30 AM)<br />
+                                <span class="speaker">On specific request</span>
                             </dd>
                         </dl>
-                    </div> -->    
+                    </div>        
                 </div>
             </div>
         </div>
