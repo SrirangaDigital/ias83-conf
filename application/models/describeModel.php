@@ -13,16 +13,7 @@ class describeModel extends Model {
 		$url = $baseUrl . $id . '/index.json';
 		$photoUrl = $baseUrl . $id . '/profile.jpg';
 
-		$curlHandle = curl_init();
-
-		curl_setopt($curlHandle, CURLOPT_URL, $url);
-		curl_setopt($curlHandle, CURLOPT_RETURNTRANSFER, 1);
-
-		$result = curl_exec($curlHandle);
-		if (curl_errno($curlHandle)) {
-		    echo 'Error:' . curl_error($curlHandle);
-		}
-		curl_close ($curlHandle);
+		$result = file_get_contents($url);
 
 		$data = json_decode($result);
 		$data->speaker->photoUrl = $photoUrl;
