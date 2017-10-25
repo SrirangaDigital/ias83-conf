@@ -7,7 +7,7 @@
                 <div class="OverlayTextMain">
                     <div class="mainpage">
                         <h2>83<sup>rd</sup> Annual Meeting</h2>
-                        <p>3<sup>rd</sup>&ndash;5<sup>th</sup> November 2017 <br />Indian Academy of Sciences, Bengaluru</p>
+                        <p>3<sup>rd</sup>&ndash;5<sup>th</sup> November 2017 <br />North-Eastern Hill University, Shillong</p>
                     </div>
                 </div>
             </div>
