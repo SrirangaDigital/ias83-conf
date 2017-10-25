@@ -50,7 +50,7 @@ $(document).ready(function() {
                     <li><a href="#day2">Day 2</a></li>
                     <li><a href="#day3">Day 3</a></li>
                     <li><a href="#allied">Allied Events</a></li>
-                    <li><a href="#spouse">For Teachers' and Spouses</a></li>
+                    <li><a href="#spouse">Teachers &amp; Spouses</a></li>
                 </ul>
                 <div class="schedule-text" id="day1">
                     <h3>3 November 2017 (Friday)</h3>
@@ -627,7 +627,7 @@ $(document).ready(function() {
                     </div>                                                                     
                 </div>
                 <div class="schedule-text" id="allied">
-                    <h3>Allied Events</h3>
+                    <br /><br /><span class="type">Allied Events</span>
                     <h3>1 November 2017 (Wednesday)</h3>
                     <div class="session">
                         <dl class="dl-horizontal">
@@ -699,7 +699,7 @@ $(document).ready(function() {
                     </div>                                               
                 </div>
                 <div class="schedule-text" id="spouse">
-                    <h3>Teachers' Programme</h3>
+                    <br /><br /><span class="type">Programme for Teachers</span>
                     <h3>2 November 2017 (Thursday)</h3>
                     <div class="session">
                         <dl class="dl-horizontal">
@@ -720,8 +720,8 @@ $(document).ready(function() {
                             </dd>
                         </dl>
                     </div>
-                    <h3>Spouse programme</h3>
-                    <p>The LOC will facilitate an organized tour during the meeting days to places of tourist’s interest as per the details below:</p>                    
+                    <br /><br /><span class="type">Programme for Spouses</span><br /><br /><br />
+                    <span class="speaker">The LOC will facilitate an organized tour during the meeting days to places of tourist’s interest as per the details below:</span>                    
                     <h3>3 November 2017 (Friday)</h3>
                     <div class="session">
                         <dl class="dl-horizontal">

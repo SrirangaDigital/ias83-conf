@@ -223,7 +223,7 @@
             </a>
             <a href="<?=BASE_URL?>Schedule#spouse">
                 <div id="block5" class="col-md-3 schedule-block" style="padding: 43px 0 43px">
-                    <p class="date" style="width: 80%">Program for Spouses</p>
+                    <p class="date" style="width: 80%">Teachers &amp; Spouses</p>
                     <p class="day">2 &amp; 5 Nov 2016</p>
                 </div>
             </a>

@@ -10,7 +10,7 @@
     <div class="row">
         <div class="col-md-9 main">
             <h1>Downloads</h1>
-            <h2>Coming Soon...</h2>
+            <h2>This page will be updated soon.</h2>
             
 <!--             <ul class="general-list">
                 <li>

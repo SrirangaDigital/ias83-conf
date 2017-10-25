@@ -2,21 +2,21 @@
 
     <h1>Schedule</h1>
     <ul>
-        <li><a href="#" target="_blank">Day1</a></li>
-        <li><a href="#" target="_blank">Day2</a></li>
-        <li><a href="#" target="_blank">Day3</a></li>
-        <li><a href="#" target="_blank">Allied Events</a></li>
-        <li><a href="#" target="_blank">For Spouses</a></li>
+        <li><a href="<?=BASE_URL?>Schedule#day1" target="_blank">Day1</a></li>
+        <li><a href="<?=BASE_URL?>Schedule#day2" target="_blank">Day2</a></li>
+        <li><a href="<?=BASE_URL?>Schedule#day3" target="_blank">Day3</a></li>
+        <li><a href="<?=BASE_URL?>Schedule#allied" target="_blank">Allied Events</a></li>
+        <li><a href="<?=BASE_URL?>Schedule#spouse" target="_blank">Teachers &amp; Spouses</a></li>
     </ul>            
 
     <h1>For Participants</h1>
     <ul>
         <li><a href="http://web-japps.ias.ac.in:8080/Annualmeeting2017/annual/register/Register.jsp" target="_blank">Registration</a></li>
-        <li><a href="<?=BASE_URL?>page/flat/Information/Venue" target="_blank">Venue</a></li>
-        <li><a href="<?=BASE_URL?>page/flat/Information/Accommodation" target="_blank">Accomodation</a></li>
-        <li><a href="#" target="_blank">Transport</a></li>
-        <li><a href="#" target="_blank">Contact</a></li>
-        <li><a href="#" target="_blank">Other Information</a></li>
+        <li><a href="<?=BASE_URL?>Information/Venue">Venue</a></li>
+        <li><a href="<?=BASE_URL?>Information/Accommodation">Accomodation</a></li>
+        <li><a href="<?=BASE_URL?>Information/Transport">Transport</a></li>
+        <li><a href="<?=BASE_URL?>Information/Contact">Contact</a></li>
+        <li><a href="<?=BASE_URL?>Information/Other">Other Information</a></li>
     </ul>    
 
     <h1>Downloads</h1>
