@@ -3,7 +3,7 @@
     <div class="row first-row">
         <div class="col-md-12 clear-paddings">
             <div class="fixOverlayDiv">
-                <img class="img-responsive" src="<?=PUBLIC_URL?>images/stock/banner.png" alt="Credits: Nohkalikai Falls, 50 kilometres outside Shillong, is among several stunning waterfalls in Meghalaya. Daniel J. Rao / Alamy / phocalmedia.com">
+                <img class="img-responsive" src="<?=PUBLIC_URL?>images/stock/banner.jpg" alt="Credits: Nohkalikai Falls, 50 kilometres outside Shillong, is among several stunning waterfalls in Meghalaya. Daniel J. Rao / Alamy / phocalmedia.com">
                 <div class="OverlayTextMain">
                     <div class="mainpage">
                         <h2>83<sup>rd</sup> Annual Meeting</h2>
