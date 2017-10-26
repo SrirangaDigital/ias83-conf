@@ -10,10 +10,10 @@
     <div class="row">
         <div class="col-md-9 main">
             <h1>Downloads</h1>
-            <h2>This page will be updated soon.</h2>
+            <!-- <h2>This page will be updated soon.</h2> -->
             
-<!--             <ul class="general-list">
-                <li>
+            <ul class="general-list">
+<!--                 <li>
                     <strong>Abstracts of Lectures</strong><br />
                     <a target="_blank" href="<?=DOWNLOAD_URL?>Abstract_Book.pdf">Speaker Profiles and Abstracts</a><br />
                 </li>
@@ -27,12 +27,14 @@
                 <li>
                     <strong>A Life in Science - Book release programme</strong><br />
                     <a target="_blank" href="<?=DOWNLOAD_URL?>A_Life_in_Science_Invite.pdf">Invite</a><br />
-                </li>
+                </li> -->
                 <li>
-                    <strong>Logistics</strong><br />
-                    <a target="_blank" href="<?=PUBLIC_URL?>images/stock/iiser-bhopal-master-plan.jpg">IISER Bhopal - Campus map</a>
+                    <a target="_blank" href="<?=DOWNLOAD_URL?>Conveners_list.pdf">List Of Conveners</a>
+                </li>                
+                <li>
+                    <a target="_blank" href="<?=DOWNLOAD_URL?>Organizing_Committee.pdf">Local Organizing Committee</a>
                 </li>
-            </ul> -->
+            </ul>
         </div>
         <div class="col-md-3 sidebar">
 <?php require_once('application/views/generalSidebar.php');?>
