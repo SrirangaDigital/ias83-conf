@@ -7,7 +7,7 @@
                 <div class="OverlayTextMain">
                     <div class="mainpage">
                         <h2>83<sup>rd</sup> Annual Meeting</h2>
-                        <p>3<sup>rd</sup>&ndash;5<sup>th</sup> November 2017 <br />North-Eastern Hill University, Shillong</p>
+                        <p>3&ndash;5 November 2017 <br />North-Eastern Hill University, Shillong</p>
                     </div>
                 </div>
             </div>
@@ -33,8 +33,8 @@
         </div>
         <div class="col-md-10">
             <div class="intro">
-                <p>The Indian Academy of Sciences, Bengaluru, through many scientific meetings, symposia, and public lectures it organizes, aims to facilitate scientific exchange among researchers and to highlight novel findings both within the scientific community and the public. The Mid-Year Meetings held during July at Bengaluru and the Annual Meetings held during November at different scientific institutions in the country are the two major annual events of the Academy in this context. The events every year see enthusiastic participation of the Fellowship of the Academy along with researchers, teachers, students and other invitees across the nation.</p>
-                <p>The <strong>83nd Annual Meeting of the Academy</strong> is being organized during <strong>3rd&ndash;5th November 2017 at North-Eastern Hill University, Shillong.</strong></p>
+                <p>The Indian Academy of Sciences, Bengaluru, through many scientific meetings, symposia, and public lectures it organizes, aims to facilitate scientific exchange among researchers and to highlight novel findings both within the scientific community and the public. The Mid-Year Meetings held during July at Bengaluru and the Annual Meetings held during November at different scientific institutions in the country are the two major annual events of the Academy in this context. The events every year see enthusiastic participation of the Fellowship of the Academy along with researchers, teachers, students, and other invitees across the nation.</p>
+                <p>The <strong>83rd Annual Meeting of the Academy</strong> is being organized during <strong>3&ndash;5 November 2017 at North-Eastern Hill University, Shillong.</strong></p>
             </div>
         </div>
     </div>        
@@ -242,8 +242,8 @@
         <div class="col-md-12">
             <a href="<?=BASE_URL?>Information/List_of_Participants" class="info-icon"><i class="fa fa-list-ul"></i><br />List of Participants</a>
             <a href="<?=BASE_URL?>Information/Venue" class="info-icon"><i class="fa fa-map-marker"></i><br />Venue</a>
-            <a href="<?=BASE_URL?>Information/Accommodation" class="info-icon"><i class="fa fa-bed"></i><br />Accommodation</a>
-            <a href="<?=BASE_URL?>Information/Transport" class="info-icon"><i class="fa fa-bus"></i><br />Transport</a><br />
+            <a href="<?=BASE_URL?>Information/Accommodation" class="info-icon"><i class="fa fa-bed"></i><br />Hospitality</a>
+            <a href="<?=BASE_URL?>Information/Transport" class="info-icon"><i class="fa fa-bus"></i><br />Logistics</a><br />
             <a href="<?=BASE_URL?>Information/Contact" class="info-icon"><i class="fa fa-phone"></i><br />Contact</a>
             <a href="<?=BASE_URL?>Information/Downloads" class="info-icon"><i class="fa fa-download"></i><br />Downloads</a>
             <a href="<?=BASE_URL?>Information/Other" class="info-icon"><i class="fa fa-ellipsis-h"></i><br />Other information</a>

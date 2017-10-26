@@ -9,7 +9,7 @@
 <div id="grid" class="container gap-above">
     <div class="row">
         <div class="col-md-9 main">
-            <h1>Venue of the conference</h1>
+            <h1>Venue of the meeting</h1>
             <h2>
                 Multi-use Convention Centre<br />
                 North-Eastern Hill University<br />
