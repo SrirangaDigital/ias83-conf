@@ -28,6 +28,9 @@
                 <li>
                     <a target="_blank" href="<?=DOWNLOAD_URL?>Organizing_Committee.pdf">Local Organizing Committee</a>
                 </li>
+                <li>
+                    <a target="_blank" href="http://www.ias.ac.in/public/Resources/Other_Publications/Annual_Reports/annrep2017.pdf">Annual report of the IASc</a>
+                </li>
             </ul>
         </div>
         <div class="col-md-3 sidebar">

@@ -41,18 +41,19 @@
 </div>
 
 
-<div class="container clear-paddings" id="registration">
-      <div class="row">
-          <div class="col-md-12">
-             <p class="subtitle fancy"><span class="text">Registration</span></p>
-          </div>
-      </div>
-      <div class="row">
-          <div class="col-md-12">
-             <p class="reg">Fellows of the Academy and invited teachers who have not yet registered,<br /> please register <a href="http://web-japps.ias.ac.in:8080/Annualmeeting2017/annual/register/Register.jsp" target="_blank">here</a></p>
-          </div>
-      </div>
-  </div>
+<!-- Registration -->
+<!-- <div class="container clear-paddings" id="registration">
+    <div class="row">
+        <div class="col-md-12">
+           <p class="subtitle fancy"><span class="text">Registration</span></p>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-12">
+            <p class="reg">Fellows of the Academy and invited teachers who have not yet registered,<br /> please register <a href="http://web-japps.ias.ac.in:8080/Annualmeeting2017/annual/register/Register.jsp" target="_blank">here</a></p>
+        </div>
+    </div>
+</div> -->
 
 <!--Speakers -->
 <div class="container-fluid" id="speakers">

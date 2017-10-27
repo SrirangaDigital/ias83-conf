@@ -72,8 +72,7 @@ $(document).ready(function() {
         }
       };
 
-    // var viewer = new Viewer(document.getElementById('viewimages'),vieweroptions);
-
+    var viewer = new Viewer(document.getElementById('viewimages'),vieweroptions);
 });
 
 

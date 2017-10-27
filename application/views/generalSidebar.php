@@ -11,7 +11,7 @@
 
     <h1>For Participants</h1>
     <ul>
-        <li><a href="http://web-japps.ias.ac.in:8080/Annualmeeting2017/annual/register/Register.jsp" target="_blank">Registration</a></li>
+        <!-- <li><a href="http://web-japps.ias.ac.in:8080/Annualmeeting2017/annual/register/Register.jsp" target="_blank">Registration</a></li> -->
         <li><a href="<?=BASE_URL?>Information/Venue">Venue</a></li>
         <li><a href="<?=BASE_URL?>Information/Accommodation">Hospitality</a></li>
         <li><a href="<?=BASE_URL?>Information/Transport">Logistics</a></li>
@@ -28,4 +28,6 @@
         <li><a href="<?=DOWNLOAD_URL?>AMsymposiaposteprn2017.pdf" target="_blank">Symposia</a></li>
         <li><a target="_blank" href="<?=DOWNLOAD_URL?>Conveners_list.pdf">List Of Conveners</a></li>        
         <li><a target="_blank" href="<?=DOWNLOAD_URL?>Organizing_Committee.pdf">Local Organizing Committee</a></li>
+        <li><a target="_blank" href="http://www.ias.ac.in/public/Resources/Other_Publications/Annual_Reports/annrep2017.pdf">Annual report of the IASc</a></li>
+
     </ul>

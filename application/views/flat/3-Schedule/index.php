@@ -663,10 +663,10 @@ $(document).ready(function() {
                                 Venue: Committee room, Vice Chancellor's Office<br />
                                 <span class="talk"></span>
                             </dd>
-                        </dl>                        
+                        </dl>
                         <dl class="dl-horizontal">
                             <dt>
-                                03.00 PM - 05.00 PM
+                                05.30 PM - 06.30 PM
                             </dt>
                             <dd>
                                 <span class="speaker">Meeting with Teachers</span><br />
@@ -718,6 +718,16 @@ $(document).ready(function() {
                             </dt>
                             <dd>
                                 <span class="speaker">Visit to Central Instrumentation Facility, School of Life Sciences</span>
+                            </dd>
+                        </dl>
+                        <dl class="dl-horizontal">
+                            <dt>
+                                05.30 PM - 06.30 PM
+                            </dt>
+                            <dd>
+                                <span class="speaker">Meeting with Teachers</span><br />
+                                Venue: Committee room, Vice Chancellor's Office<br />
+                                <span class="talk"></span>
                             </dd>
                         </dl>
                     </div>
