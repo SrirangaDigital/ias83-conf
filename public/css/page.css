@@ -4,56 +4,56 @@
     overflow: hidden;
 }
 .col-padded-no-top {
-	padding: 30px 30px 30px 30px;
-	background-color: #FFF;
-	overflow: hidden;
+  padding: 30px 30px 30px 30px;
+  background-color: #FFF;
+  overflow: hidden;
 }
 .col-shaded {
-	background-color: rgba( 0, 0, 0, 0.02 );
+  background-color: rgba( 0, 0, 0, 0.02 );
 }
 .title-widget {
-	color: #898989;
-	font-size: 13px;
-	font-weight: 300;
-	line-height: 1;
-	text-transform: uppercase;
-	margin: 0 0 40px 0;
-	border-left: 5px solid #ea5644;
-	padding-left: 25px;
-	position: relative;
-	line-height: 18px;
+  color: #898989;
+  font-size: 13px;
+  font-weight: 300;
+  line-height: 1;
+  text-transform: uppercase;
+  margin: 0 0 40px 0;
+  border-left: 5px solid #ea5644;
+  padding-left: 25px;
+  position: relative;
+  line-height: 18px;
 }
 .recent-news-wrap:not(:last-child) {
-	margin-bottom: 19px;
-	padding-bottom: 20px;
-	border-bottom: 1px solid rgba( 0, 0, 0, 0.05 );
+  margin-bottom: 19px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid rgba( 0, 0, 0, 0.05 );
 }
 .title-median {
-	color: #636363;
-	font-size: 15px;
-	font-weight: 700;
-	line-height: 20px;
-	text-transform: uppercase;
-	margin: 0 0 15px 0;
+  color: #636363;
+  font-size: 15px;
+  font-weight: 700;
+  line-height: 20px;
+  text-transform: uppercase;
+  margin: 0 0 15px 0;
 }
 .title-median a{
-	color: #363636;
+  color: #363636;
 }
 .title-median a:hover, .title-median a:focus{
-	color: #ea5644;
+  color: #ea5644;
 }
 .title-median a {
-	display: block;
+  display: block;
 }
 .widget_recent_news .title-median {
-	margin-bottom: 0;
+  margin-bottom: 0;
 }
 .recent-news-date {
-	font-size: 13px;
-	font-weight: 300;
+  font-size: 13px;
+  font-weight: 300;
 }
 .recent-news-thumb {
-	float: left;    
+  float: left;    
 }
 .recent-news-thumb img {
     width: 90px;
@@ -144,22 +144,22 @@
     margin-top: 40px;
 }
 a.moretag {
-	font-size: 12px;
-	text-transform: uppercase;
-	color: #ea5644;
+  font-size: 12px;
+  text-transform: uppercase;
+  color: #ea5644;
 }
 .copy-text {
-	font-size: 12px;
-	line-height: 24px;
-	margin: 40px 0 40px 0;
-	color: rgb(119, 119, 119);
-	font-weight: 300;
+  font-size: 12px;
+  line-height: 24px;
+  margin: 20px 0 20px 0;
+  color: rgb(119, 119, 119);
+  font-weight: 300;
 }
 .copy-text a{
-	color: #e5ae47;
+  color: #e5ae47;
 }
 #k-subfooter{
-	margin-top: 30px;
+  margin-top: 30px;
 }
 .wordcloud{
     text-align: center;
@@ -364,7 +364,7 @@ a.moretag {
     width: 100%;
     padding: 0px;
     background: url('../images/stock/banner.jpg') no-repeat;
-    background-size: cover;
+    background-size: contain;
     min-height: 500px;
 }
 
@@ -372,6 +372,7 @@ a.moretag {
     margin-left: auto;
     margin-right: auto;
 }
+
 .fixOverlayDiv{
     position: relative;
     width:100%; 
@@ -406,6 +407,15 @@ a.moretag {
     .OverlayTextMain {
         display: none;
     }
+    .fixOverlayDivHome {
+      position: relative;
+      width: 100%;
+      padding: 0px;
+      background: url('../images/stock/banner.jpg') no-repeat;
+      background-size: contain;
+      min-height: 200px;
+  }
+
 }
 
 /*Timeline*/
@@ -706,47 +716,17 @@ button.toggle-button{
 
 /*Home page styles*/
 .logos{
-  text-align: right;
+  text-align: center;
 }
 .logos img{
   width: 100px;
   margin: 20px 0;
 }
 .intro{
-  width: 80%;
+  width: 90%;
   font-size: 16px;
   line-height: 32px;
-  margin: 50px 0 0px 20px;
-}
-
-/*side lines*/
-.fancy {
-    font-size: 24px;
-    line-height: 0.5;
-    text-align: center;
-    margin: 30px 0 90px;
-}
-.fancy span {
-    display: inline-block;
-    position: relative;  
-}
-.fancy span:before,
-.fancy span:after {
-    content: "";
-    position: absolute;
-    height: 15px;
-    border-bottom: 1px solid #e5ae47;
-    border-top: 1px solid #e5ae47;
-    top: 0;
-    width: 300px;
-}
-.fancy span:before {
-    right: 100%;
-    margin-right: 15px;
-}
-.fancy span:after {
-    left: 100%;
-    margin-left: 15px;
+  margin: 20px 0 0px 20px;
 }
 
 /*Main page styles*/
@@ -893,3 +873,12 @@ button.toggle-button{
   float: right;
   font-size: 0.8em;
  }
+ @media (min-width: 768px) {
+   .intro{
+      width: 80%;
+      margin: 50px 0 0px 20px;
+   }
+   .logos{
+    text-align: right;
+  }
+}

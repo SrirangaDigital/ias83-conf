@@ -1,5 +1,31 @@
+<script type="text/javascript">
+$(document).ready(function() {
+
+    var htmlWidth = $('html').outerWidth();
+
+    if(htmlWidth >= 768)
+        $('#social .info-icon i').css("line-height", $('#twitterContainer').height() + "px");
+
+    var containerWidth = $('.container').outerWidth();
+
+    var gutter = $('.fancy .text').css('margin-left').replace("px", "");
+
+    $('.fancy .text').each(function(){
+
+        $(this).before('<span class="before">&nbsp;</span>');
+        $(this).after('<span class="after">&nbsp;</span>');
+
+        var fancyWidth = Math.round((containerWidth - $(this).outerWidth() - (2 * gutter)) / 2);
+
+        $(this).prev('.before').css("width", fancyWidth);
+        $(this).next('.after').css("width", fancyWidth);
+    });    
+});
+</script>
+
 <script src='https://www.google.com/recaptcha/api.js'></script>
-<div class="container-fluid" id="home">
+
+<div class="container clear-paddings" id="home">
     <div class="row first-row">
         <div class="col-md-12 clear-paddings">
             <div class="fixOverlayDivHome">
@@ -59,7 +85,7 @@
 <div class="container-fluid" id="speakers">
     <div class="row">
         <div class="col-md-12">
-            <p class="subtitle fancy"><span>Speakers</span></p>
+            <p class="subtitle fancy"><span class="text">Speakers</span></p>
         </div>
     </div>
     <div class="row">
@@ -190,7 +216,7 @@
 <div class="container-fluid" id="schedule">
     <div class="row">
         <div class="col-md-12">
-            <p class="subtitle fancy"><span>Schedule</span></p>
+            <p class="subtitle fancy"><span class="text">Schedule</span></p>
         </div>
     </div>
     <div class="row">
@@ -236,7 +262,7 @@
 <div class="container-fluid" id="information">
     <div class="row">
         <div class="col-md-12">
-            <p class="subtitle fancy"><span>For Participants</span></p>
+            <p class="subtitle fancy"><span class="text">For Participants</span></p>
         </div>
     </div>
     <div class="row" style="line-height: 150px">
@@ -256,7 +282,7 @@
 <div class="container-fluid gap-below-large" id="social">
     <div class="row">
         <div class="col-md-12">
-            <p class="subtitle fancy"><span>Follow</span></p>
+            <p class="subtitle fancy"><span class="text">Follow</span></p>
         </div>
     </div>
     <div class="row">

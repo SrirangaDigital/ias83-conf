@@ -67,17 +67,17 @@
             <div class="collapse navbar-collapse" id="navbar-primary-collapse">
                 <ul class="nav navbar-nav">
                     <li><a href="<?=BASE_URL?>#home">Home</a></li>
-                    <li><a>·</a></li>
-                    <li><a href="<?=BASE_URL?>page/flat/About">About</a></li>
-                    <li><a>·</a></li>
+                    <li class="navSeparator"><a>·</a></li>
+                    <li><a href="<?=BASE_URL?>About">About</a></li>
+                    <li class="navSeparator"><a>·</a></li>
                     <li><a href="<?=BASE_URL?>#speakers">Speakers</a></li>
-                    <li><a>·</a></li>
-                    <li><a href="<?=BASE_URL?>page/flat/Schedule">Schedule</a></li>                    
-                    <li><a href="#"><img src="<?=PUBLIC_URL?>images/logo.png" alt="Logo of the Indian Academy of Sciences" class="img-circle logo"></a></li>
+                    <li class="navSeparator"><a>·</a></li>
+                    <li><a href="<?=BASE_URL?>Schedule">Schedule</a></li>                    
+                    <li id="navLogo"><a href="<?=BASE_URL?>#home"><img src="<?=PUBLIC_URL?>images/logo.png" alt="Logo of the Indian Academy of Sciences" class="img-circle logo"></a></li>
                     <li><a href="<?=BASE_URL?>#information">For Participants</a></li>
-                    <li><a>·</a></li>
+                    <li class="navSeparator"><a>·</a></li>
                     <li><a href="<?=BASE_URL?>Information/Downloads">Downloads</a></li>
-                    <li><a>·</a></li>
+                    <li class="navSeparator"><a>·</a></li>
                     <li><a href="<?=BASE_URL?>Information/Contact">Contact</a></li>
                 </ul>
             </div><!-- /.navbar-collapse -->
