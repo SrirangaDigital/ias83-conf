@@ -15,7 +15,7 @@ $(document).ready(function() {
         $(this).before('<span class="before">&nbsp;</span>');
         $(this).after('<span class="after">&nbsp;</span>');
 
-        var fancyWidth = Math.round((containerWidth - $(this).outerWidth() - (2 * gutter)) / 2);
+        var fancyWidth = Math.round((containerWidth - $(this).outerWidth() - (4 * gutter)) / 2);
 
         $(this).prev('.before').css("width", fancyWidth);
         $(this).next('.after').css("width", fancyWidth);
