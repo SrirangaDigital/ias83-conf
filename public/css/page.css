@@ -883,3 +883,16 @@ button.toggle-button{
     text-align: right;
   }
 }
+.responive-map {
+    position: relative;
+    padding-bottom: 50%; // This is the aspect ratio
+    height: 0;
+    overflow: hidden;
+}
+.responive-map iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100% !important;
+    height: 100% !important;
+}
