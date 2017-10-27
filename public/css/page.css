@@ -359,6 +359,19 @@ a.moretag {
 
 
 /*Image overlays*/
+.fixOverlayDivHome {
+    position: relative;
+    width: 100%;
+    padding: 0px;
+    background: url('../images/stock/banner.jpg') no-repeat;
+    background-size: cover;
+    min-height: 500px;
+}
+
+.fixOverlayDivHome img {
+    margin-left: auto;
+    margin-right: auto;
+}
 .fixOverlayDiv{
     position: relative;
     width:100%; 
