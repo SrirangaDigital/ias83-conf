@@ -10,13 +10,16 @@
     <div class="row">
         <div class="col-md-9 main">
             <h1><?= $data->speaker->name ?></h1>
-            <img src="<?=$data->speaker->photoUrl?>" class="profile-thumb" alt="<?= $data->speaker->name ?>" />
-            <p class="affiliation">
-               <?= $data->speaker->affiliation ?>     
-            </p>
-            <p>
-                <?= $data->speaker->biodata ?>
-            </p>
+            <p class="affiliation"><?=$data->speaker->affiliation?></p>
+            
+            <div class="row">
+                <div class="col-md-9 col-xs-12 clear-paddings">
+                    <p class="biodata"><?=$data->speaker->biodata?></p>
+                </div>
+                <div class="col-md-3 col-xs-12 clear-paddings">
+                    <img src="<?=$data->speaker->photoUrl?>" class="profile-thumb img-responsive" alt="<?= $data->speaker->name ?>" />
+                </div>
+            </div>
             <div class="talk">
                 <p class="type"><?=$data->talk->session?></p>
                 <p class="affiliation"><?=$data->talk->chairperson?></p>
