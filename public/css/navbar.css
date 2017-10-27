@@ -5,6 +5,12 @@
 .navbar-default #navLogo{
 	display: none;
 }
+.navbar-default #navbarText{
+	padding-left: 20px;
+	font-size: 16px;
+	font-weight: 400;
+	display: inline-block;
+}
 .navbar-default{
 	font-family: 'Open Sans', sans-serif;
 	font-size: 13px;
@@ -125,6 +131,9 @@ li.navSeparator{
 	}
 	.navbar-default #navLogo{
 		display: inline-block;
+	}
+	.navbar-default #navbarText{
+		display: none;
 	}
 	li.navSeparator{
 		display: inline-block !important;

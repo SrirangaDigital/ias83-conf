@@ -34,11 +34,11 @@
 
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
     <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap-theme.min.css"> -->
-    <link rel="stylesheet" href="<?=PUBLIC_URL?>css/navbar.css?v=1.1">
+    <link rel="stylesheet" href="<?=PUBLIC_URL?>css/navbar.css?v=1.2">
     <link rel="stylesheet" href="<?=PUBLIC_URL?>css/carousel.css?v=1.1">
     <link rel="stylesheet" href="<?=PUBLIC_URL?>css/page.css?v=1.1">
     <link rel="stylesheet" href="<?=PUBLIC_URL?>css/archive.css?v=1.1">
-    <link rel="stylesheet" href="<?=PUBLIC_URL?>css/general.css?v=1.1">
+    <link rel="stylesheet" href="<?=PUBLIC_URL?>css/general.css?v=1.2">
     <link rel="stylesheet" href="<?=PUBLIC_URL?>css/flat.css?v=1.1">
     <link rel="stylesheet" href="<?=PUBLIC_URL?>css/form.css?v=1.1">
     <link rel="stylesheet" href="<?=PUBLIC_URL?>css/aux.css?v=1.1">
@@ -57,12 +57,13 @@
         <div class="container-fluid">
         <!-- Brand and toggle get grouped for better mobile display -->
             <div class="navbar-header">
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-primary-collapse">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-primary-collapse">
                     <span class="sr-only">Toggle navigation</span>
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
+                <p class="navbar-text" id="navbarText">Indian Academy of Sciences</p>
             </div>
             <div class="collapse navbar-collapse" id="navbar-primary-collapse">
                 <ul class="nav navbar-nav">
