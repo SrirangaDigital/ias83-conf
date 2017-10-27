@@ -295,8 +295,9 @@ $(document).ready(function() {
                             </dt>
                             <dd>
                                 <span class="speaker">S Sankararaman</span><br />
-                                Indian Institute of Technology, Chennai<br />
-                                <span class="talk">Restricting rotation of triple bond through p-stacking interactions in molecular hinges</span>
+                                Indian Institute of Technology Madras, Chennai<br />
+                                <span class="talk">Restricting the rotation of triple bond through 
+                                Π-stacking interactions in molecular hinges</span>
                             </dd>
                         </dl>                                            
                         <dl class="dl-horizontal">
@@ -352,7 +353,7 @@ $(document).ready(function() {
                                 <span class="speaker">Rajneesh Bhutani</span><br />
                                 Pondicherry University, Puducherry
                                 <br />
-                                <span class="talk">Origin of Manipur Ophiolite Complex, Indo-Myanmar Range, Northeastern India</span>
+                                <span class="talk">Origin of Manipur Ophiolite Complex, Indo-Myanmar Range, North-Eastern India</span>
                             </dd>
                         </dl>                        
                         <dl class="dl-horizontal">
@@ -375,10 +376,10 @@ $(document).ready(function() {
                                 </div>
                             </dt>
                             <dd>
-                                <span class="speaker">J S Ray</span><br />
+                                <span class="speaker">Jyotiranjan S Ray</span><br />
                                 Physical Research Laboratory, Ahmedabad
                                 <br />
-                                <span class="talk">Cretaceous carbonatite-alkaline-basaltic magmatism in North-eastern India and Gondwanaland breakup</span>
+                                <span class="talk">Cretaceous carbonatite-alkaline-basaltic magmatism in North-Eastern India and Gondwanaland breakup</span>
                             </dd>
                         </dl>                        
                         <dl class="dl-horizontal">
@@ -517,7 +518,7 @@ $(document).ready(function() {
                     <h3>5 November 2017 (Sunday)</h3>
                     <div class="session">
                         <span class="type">Session 3A: Inaugural Lectures by Associates/Fellow</span><br />
-                        Chairperson: S Sivasanker, Indian Institute of Technology, Chennai<br /><br />
+                        Chairperson: S Sivasanker, Indian Institute of Technology Madras, Chennai<br /><br />
                         <dl class="dl-horizontal">
                             <dt>
                                 0900 – 0920<br />
@@ -538,7 +539,7 @@ $(document).ready(function() {
                             <dd>
                                 <span class="speaker">Ashutosh Ghosh</span><br />
                                 University of Calcutta, Kolkata<br />
-                                <span class="talk">Hetero-metallic complexes derived from N2O2 donor ligands: Molecular shapes, supramolecular structures, catalysis and magnetism</span>
+                                <span class="talk">Hetero-metallic complexes derived from N<sub>2</sub>O<sub>2</sub> donor ligands: Molecular shapes, supramolecular structures, catalysis and magnetism</span>
                             </dd>
                         </dl>
                         <dl class="dl-horizontal">
@@ -597,7 +598,7 @@ $(document).ready(function() {
                             </dt>
                             <dd>
                                 <span class="speaker">Swapan K Datta</span><br />
-                                Visva-Bharati, Santiniketan<br />
+                                Visva-Bharati University, Santiniketan<br />
                                 <span class="talk">Biofortified Rice with stable enhanced Nutrition</span>
                             </dd>
                         </dl>                        
@@ -632,12 +633,12 @@ $(document).ready(function() {
                     <div class="session">
                         <dl class="dl-horizontal">
                             <dt>
-                                10.30 AM - 01.00 PM<br />
+                                10.00 AM - 01.30 PM<br />
                                 <div class="more-info"><a target="_blank" title="More Information" href="#"><i class="fa fa-info-circle"></i></a></div>
                             </dt>
                             <dd>
                                 <span class="speaker">The Academy Trust (TAcT) Programme for school students</span><br />
-                                Venue: St. Paul’s Higher Secondary School, Shillong.<br />
+                                Venue: St. Anthony's Higher Secondary School, Don Bosco Square, Shillong<br />
                             </dd>
                         </dl>          
                     </div>
@@ -649,7 +650,7 @@ $(document).ready(function() {
                             </dt>
                             <dd>
                                 <span class="speaker">Editorial Board Meeting – Pramana</span><br />
-                                Venue: Committee room, Vice-chancellor’s office<br />
+                                Venue: Committee room, New Guest House<br />
                                 <span class="talk"></span>
                             </dd>
                         </dl>                        
@@ -659,7 +660,7 @@ $(document).ready(function() {
                             </dt>
                             <dd>
                                 <span class="speaker">Press Conference</span><br />
-                                Venue: <br />
+                                Venue: Committee room, Vice Chancellor's Office<br />
                                 <span class="talk"></span>
                             </dd>
                         </dl>                        
@@ -669,7 +670,7 @@ $(document).ready(function() {
                             </dt>
                             <dd>
                                 <span class="speaker">Meeting with Teachers</span><br />
-                                Venue: Committee room, New Guest House<br />
+                                Venue: Committee room, Vice Chancellor's Office<br />
                                 <span class="talk"></span>
                             </dd>
                         </dl>                        
@@ -682,13 +683,13 @@ $(document).ready(function() {
                             </dt>
                             <dd>
                                 <span class="speaker">Editorial Board Meeting – Bulletin of Material Sciences</span><br />
-                                Venue: Committee room, Vice-chancellor’s office<br />
+                                Venue: Committee room, New Guest House<br />
                                 <span class="talk"></span>
                             </dd>
                         </dl>                        
                         <dl class="dl-horizontal">
                             <dt>
-                                04.30 PM
+                                04.00 PM
                             </dt>
                             <dd>
                                 <span class="speaker">Business Meeting of Fellows</span><br />
