@@ -2,6 +2,9 @@
 	height: 65px;
 	transition: height 0.3s ease;
 }
+.center-logo{
+	margin-left: 40px;
+}
 .navbar-default #navLogo{
 	display: none;
 }

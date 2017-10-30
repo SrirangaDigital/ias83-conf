@@ -30,12 +30,12 @@ $(document).ready(function() {
         <div class="col-md-12 clear-paddings">
             <div class="fixOverlayDivHome">
                 <!-- <img class="img-responsive" src="<?=PUBLIC_URL?>images/stock/banner.jpg" alt="Credits: Nohkalikai Falls, 50 kilometres outside Shillong, is among several stunning waterfalls in Meghalaya. Daniel J. Rao / Alamy / phocalmedia.com"> -->
-                <div class="OverlayTextMain">
+<!--                 <div class="OverlayTextMain">
                     <div class="mainpage">
                         <h2>83<sup>rd</sup> Annual Meeting</h2>
                         <p>3&ndash;5 November 2017 <br />North-Eastern Hill University, Shillong</p>
                     </div>
-                </div>
+                </div> -->
             </div>
         </div>
     </div>

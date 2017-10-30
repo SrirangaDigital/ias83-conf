@@ -365,6 +365,7 @@ a.moretag {
     padding: 0px;
     background: url('../images/stock/banner.jpg') no-repeat;
     background-size: contain;
+    background-position: center;
     min-height: 500px;
 }
 

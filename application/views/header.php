@@ -67,7 +67,7 @@
             </div>
             <div class="collapse navbar-collapse" id="navbar-primary-collapse">
                 <ul class="nav navbar-nav">
-                    <li><a href="<?=BASE_URL?>#home">Home</a></li>
+                    <li class="center-logo"><a href="<?=BASE_URL?>#home">Home</a></li>
                     <li class="navSeparator"><a>·</a></li>
                     <li><a href="<?=BASE_URL?>About">About</a></li>
                     <li class="navSeparator"><a>·</a></li>
