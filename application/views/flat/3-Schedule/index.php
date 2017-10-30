@@ -634,7 +634,7 @@ $(document).ready(function() {
                         <dl class="dl-horizontal">
                             <dt>
                                 10.00 AM - 01.30 PM<br />
-                                <div class="more-info"><a target="_blank" title="More Information" href="#"><i class="fa fa-info-circle"></i></a></div>
+                                <div class="more-info"><a target="_blank" title="More Information" href="<?=DOWNLOAD_URL?>tAcT_Poster.pdf"><i class="fa fa-info-circle"></i></a></div>
                             </dt>
                             <dd>
                                 <span class="speaker">The Academy Trust (TAcT) Programme for school students</span><br />

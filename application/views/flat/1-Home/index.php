@@ -292,7 +292,6 @@ $(document).ready(function() {
             <a target="_blank" title="YouTube" href="https://www.youtube.com/channel/UC5Aq2JESu0QLmP9WveZSvbQ" class="info-icon"><i class="fa fa-youtube"></i></a>
             <a target="_blank" title="Twitter" href="https://twitter.com/IAScBng" class="info-icon"><i class="fa fa-twitter"></i></a>
             <a target="_blank" title="Facebook" href="https://www.facebook.com/IAScBng" class="info-icon"><i class="fa fa-facebook"></i></a>
-            <a target="_blank" title="Blog" href="http://www.ias.ac.in/public/blog/index.php/about-this-blog/" class="info-icon"><i class="fa fa-wordpress"></i></a>
         </div>
     </div>
 </div>
