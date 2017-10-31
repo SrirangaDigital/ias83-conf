@@ -3,7 +3,7 @@
 	transition: height 0.3s ease;
 }
 .center-logo{
-	margin-left: 40px;
+	margin-left: 0px;
 }
 .navbar-default #navLogo{
 	display: none;
@@ -143,5 +143,8 @@ li.navSeparator{
 	}
 	.navbar-default .navbar-nav > li > a {
 		padding: 20px 2px;
+	}
+	.center-logo{
+		margin-left: 40px;
 	}
 }
