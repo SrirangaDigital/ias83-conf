@@ -24,7 +24,7 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
     <script type="text/javascript" src="<?=PUBLIC_URL?>js/jquery-1.11.0.min.js"></script>
 	<script type="text/javascript" src="<?=PUBLIC_URL?>js/lightbox.js"></script>
-        <script type="text/javascript" src="<?=PUBLIC_URL?>js/viewer.js"></script>
+    <script type="text/javascript" src="<?=PUBLIC_URL?>js/viewer.js"></script>
  
     <!-- CSS
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
@@ -73,7 +73,9 @@
                     <li class="navSeparator"><a>·</a></li>
                     <li><a href="<?=BASE_URL?>#speakers">Speakers</a></li>
                     <li class="navSeparator"><a>·</a></li>
-                    <li><a href="<?=BASE_URL?>Schedule">Schedule</a></li>                    
+                    <li><a href="<?=BASE_URL?>Schedule">Schedule</a></li>
+                    <li class="navSeparator"><a>·</a></li>
+                    <li><a href="<?=BASE_URL?>Gallery">Gallery</a></li>
                     <li id="navLogo"><a href="<?=BASE_URL?>#home"><img src="<?=PUBLIC_URL?>images/logo.png" alt="Logo of the Indian Academy of Sciences" class="img-circle logo"></a></li>
                     <li><a href="<?=BASE_URL?>#information">For Participants</a></li>
                     <li class="navSeparator"><a>·</a></li>

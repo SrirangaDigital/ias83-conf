@@ -1,6 +1,6 @@
 <?php
 
-define('BASE_URL', 'http://localhost/ias-conf/');
+define('BASE_URL', 'http://localhost/ias83-conf/');
 define('PUBLIC_URL', BASE_URL . 'public/');
 define('XML_SRC_URL', BASE_URL . 'md-src/xml/');
 define('PHOTO_URL', PUBLIC_URL . 'Photos/');
@@ -9,7 +9,7 @@ define('STOCK_IMAGE_URL', PUBLIC_URL . 'images/stock/');
 define('RESOURCES_URL', PUBLIC_URL . 'Photos/');
 
 // Physical location of resources
-define('PHY_BASE_URL', '/var/www/html/ias-conf/');
+define('PHY_BASE_URL', '/var/www/html/ias83-conf/');
 define('PHY_PUBLIC_URL', PHY_BASE_URL . 'public/');
 define('PHY_XML_SRC_URL', PHY_BASE_URL . 'md-src/xml/');
 define('PHY_PHOTO_URL', PHY_PUBLIC_URL . 'Photos/');

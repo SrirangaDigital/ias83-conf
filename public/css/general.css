@@ -452,7 +452,7 @@ a {
 
 p.img-small img{
   display: inline;
-  margin: 0;
+  margin: 5px;
   float: left;
 }
 #viewimages{
@@ -475,4 +475,27 @@ img.full-width-image{
 }
 .chairperson{
 	font-weight: bold;
+}
+.gallerySidebar h1{
+  color: #444444;
+  font-family: "Lato", Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 26px;
+  font-weight: 500;
+  line-height: 50px;
+
+}
+.gallerySidebar li{
+	list-style-type: none;
+	font-size: 16px;
+  	margin-bottom: 10px;
+  	margin-left: -30px;
+}
+.gallerySidebar li a{
+  color: #444444;
+}
+.gallerySidebar li a:hover{
+  color: #e5ae47;
+}
+.gallerySidebar li a.active{
+	color: #e5ae47;	
 }
