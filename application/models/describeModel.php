@@ -9,7 +9,7 @@ class describeModel extends Model {
 
 	public function getProfileDetails($id){
 
-		$baseUrl = 'http://www.ias.ac.in/ias-cms/public/data/meetings/';
+		$baseUrl = 'http://www.ias.ac.in/ias-cms/public/data/meetings/AM2017/';
 		$url = $baseUrl . $id . '/index.json';
 		$photoUrl = $baseUrl . $id . '/profile.jpg';
 
