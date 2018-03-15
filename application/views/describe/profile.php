@@ -23,7 +23,14 @@
             <div class="talk">
                 <p class="type"><?=$data->talk->session?></p>
                 <p class="affiliation"><?=$data->talk->chairperson?></p>
-                <p class="title"><?= $data->talk->title ?></p>
+                <p class="title">
+                    <?= $data->talk->title ?>
+<?php if(isset($data->externalLink->presentation)) { ?>
+                    <span class="presentation">
+                        <a target="_blank" title="Click here to see the presentation" href="<?=$data->externalLink->presentation?>"><i class="fa fa-paperclip"></i> View Presentation</a>
+                    </span>
+<?php } ?>
+                </p>
                 <p class="abstract">
                     <?= $data->talk->abstract ?>
                 </p>
