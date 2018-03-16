@@ -26,14 +26,19 @@
                 <p class="title">
                     <?= $data->talk->title ?>
 <?php if(isset($data->externalLink->presentation)) { ?>
-                    <span class="presentation">
-                        <a target="_blank" title="Click here to see the presentation" href="<?=$data->externalLink->presentation?>"><i class="fa fa-paperclip"></i> View Presentation</a>
+                    <span class="presentation text-right">
+                        <a target="_blank" title="Click here to see the presentation" href="<?=BASE_URL?>show/presentation/<?=$data->talk->id?>"><i class="fa fa-paperclip"></i> View Presentation</a>
                     </span>
 <?php } ?>
                 </p>
-                <p class="abstract">
+<?php if(isset($data->externalLink->youtube)) { ?>
+                    <div class="youtube text-center gap-above"><iframe src="<?=$data->externalLink->youtube?>"></iframe></div>
+<?php } ?>
+                
+                <p class="abstract gap-above">
                     <?= $data->talk->abstract ?>
                 </p>
+                
             </div>
         </div>
         <div class="col-md-3 sidebar">

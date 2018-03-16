@@ -3,6 +3,9 @@ RewriteEngine On
 
 RewriteBase /ias83-conf
 
+RewriteCond %{REQUEST_URI}  show/presentation/.*
+RewriteRule show/presentation/(.*?)/(.*) http://192.168.1.101/ias-cms/public/data/meetings/$1/$2/presentation.pdf [QSA,L]
+
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME} !-f
 

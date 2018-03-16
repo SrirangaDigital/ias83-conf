@@ -499,3 +499,7 @@ img.full-width-image{
 .gallerySidebar li a.active{
 	color: #e5ae47;	
 }
+.youtube iframe{
+	width: 700px;
+	height: 375px;
+}
