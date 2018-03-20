@@ -38,7 +38,7 @@
     <link rel="stylesheet" href="<?=PUBLIC_URL?>css/carousel.css?v=1.1">
     <link rel="stylesheet" href="<?=PUBLIC_URL?>css/page.css?v=1.4">
     <link rel="stylesheet" href="<?=PUBLIC_URL?>css/archive.css?v=1.1">
-    <link rel="stylesheet" href="<?=PUBLIC_URL?>css/general.css?v=1.2">
+    <link rel="stylesheet" href="<?=PUBLIC_URL?>css/general.css?v=1.3">
     <link rel="stylesheet" href="<?=PUBLIC_URL?>css/flat.css?v=1.1">
     <link rel="stylesheet" href="<?=PUBLIC_URL?>css/form.css?v=1.1">
     <link rel="stylesheet" href="<?=PUBLIC_URL?>css/aux.css?v=1.1">
