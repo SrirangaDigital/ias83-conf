@@ -86,7 +86,7 @@ $(document).ready(function() {
         <div class="col-md-12">
             <p class="speaker-type">Presidential Address</p>
             <a href="<?=BASE_URL?>describe/profile/1508569913576">
-                <img src="http://www.ias.ac.in/ias-cms/public/data/meetings/1508569913576/profile.jpg" class="speaker-thumbnail" alt="Ramakrishna Ramaswamy" title="Ramakrishna Ramaswamy"/>
+                <img src="<?=CMS_URL?>public/data/meetings/AM2017/1508569913576/profile.jpg" class="speaker-thumbnail" alt="Ramakrishna Ramaswamy" title="Ramakrishna Ramaswamy"/>
                 <figcaption class="figure-caption text-xs-right">Ramakrishna Ramaswamy</figcaption>
             </a>
         </div>
@@ -95,115 +95,115 @@ $(document).ready(function() {
         <div class="col-md-12">
             <p class="speaker-type">Inaugural Lectures of Fellows &amp; Associates / Special Lectures / Public Lectures / Symposia Lectures</p>
             <a href="<?=BASE_URL?>describe/profile/1508570403836">
-                <img src="http://www.ias.ac.in/ias-cms/public/data/meetings/1508570403836/profile.jpg" class="speaker-thumbnail" alt="Shailesh Nayak" title="Shailesh Nayak"/>
+                <img src="<?=CMS_URL?>public/data/meetings/AM2017/1508570403836/profile.jpg" class="speaker-thumbnail" alt="Shailesh Nayak" title="Shailesh Nayak"/>
                 <figcaption class="figure-caption text-xs-right">Shailesh Nayak</figcaption>
             </a>
             <a href="<?=BASE_URL?>describe/profile/1508571107398">
-                <img src="http://www.ias.ac.in/ias-cms/public/data/meetings/1508571107398/profile.jpg" class="speaker-thumbnail" alt="Gobinda Majumder" title="Gobinda Majumder"/>
+                <img src="<?=CMS_URL?>public/data/meetings/AM2017/1508571107398/profile.jpg" class="speaker-thumbnail" alt="Gobinda Majumder" title="Gobinda Majumder"/>
                 <figcaption class="figure-caption text-xs-right">Gobinda Majumder</figcaption>
             </a>
             <a href="<?=BASE_URL?>describe/profile/1508571423313">
-                <img src="http://www.ias.ac.in/ias-cms/public/data/meetings/1508571423313/profile.jpg" class="speaker-thumbnail" alt="G D Yadav" title="G D Yadav"/>
+                <img src="<?=CMS_URL?>public/data/meetings/AM2017/1508571423313/profile.jpg" class="speaker-thumbnail" alt="G D Yadav" title="G D Yadav"/>
                 <figcaption class="figure-caption text-xs-right">G D Yadav</figcaption>
             </a>
             <a href="<?=BASE_URL?>describe/profile/1508575237271">
-                <img src="http://www.ias.ac.in/ias-cms/public/data/meetings/1508575237271/profile.jpg" class="speaker-thumbnail" alt="Abhishek Banerjee" title="Abhishek Banerjee"/>
+                <img src="<?=CMS_URL?>public/data/meetings/AM2017/1508575237271/profile.jpg" class="speaker-thumbnail" alt="Abhishek Banerjee" title="Abhishek Banerjee"/>
                 <figcaption class="figure-caption text-xs-right">Abhishek Banerjee</figcaption>
             </a>
             <a href="<?=BASE_URL?>describe/profile/1508575295367">
-                <img src="http://www.ias.ac.in/ias-cms/public/data/meetings/1508575295367/profile.jpg" class="speaker-thumbnail" alt="Navakanta Bhat" title="Navakanta Bhat"/>
+                <img src="<?=CMS_URL?>public/data/meetings/AM2017/1508575295367/profile.jpg" class="speaker-thumbnail" alt="Navakanta Bhat" title="Navakanta Bhat"/>
                 <figcaption class="figure-caption text-xs-right">Navakanta Bhat</figcaption>
             </a>
             <a href="<?=BASE_URL?>describe/profile/1508575347695">
-                <img src="http://www.ias.ac.in/ias-cms/public/data/meetings/1508575347695/profile.jpg" class="speaker-thumbnail" alt="V Padmanabhan" title="V Padmanabhan"/>
+                <img src="<?=CMS_URL?>public/data/meetings/AM2017/1508575347695/profile.jpg" class="speaker-thumbnail" alt="V Padmanabhan" title="V Padmanabhan"/>
                 <figcaption class="figure-caption text-xs-right">V Padmanabhan</figcaption>
             </a>
             <a href="<?=BASE_URL?>describe/profile/1508575417180">
-                <img src="http://www.ias.ac.in/ias-cms/public/data/meetings/1508575417180/profile.jpg" class="speaker-thumbnail" alt="Amrutur Bharadwaj" title="Amrutur Bharadwaj"/>
+                <img src="<?=CMS_URL?>public/data/meetings/AM2017/1508575417180/profile.jpg" class="speaker-thumbnail" alt="Amrutur Bharadwaj" title="Amrutur Bharadwaj"/>
                 <figcaption class="figure-caption text-xs-right">Amrutur Bharadwaj</figcaption>
             </a>
             <a href="<?=BASE_URL?>describe/profile/1508578388184">
-                <img src="http://www.ias.ac.in/ias-cms/public/data/meetings/1508578388184/profile.jpg" class="speaker-thumbnail" alt="Jaywant H Arakeri" title="Jaywant H Arakeri"/>
+                <img src="<?=CMS_URL?>public/data/meetings/AM2017/1508578388184/profile.jpg" class="speaker-thumbnail" alt="Jaywant H Arakeri" title="Jaywant H Arakeri"/>
                 <figcaption class="figure-caption text-xs-right">Jaywant H Arakeri</figcaption>
             </a>
             <a href="<?=BASE_URL?>describe/profile/1508578479647">
-                <img src="http://www.ias.ac.in/ias-cms/public/data/meetings/1508578479647/profile.jpg" class="speaker-thumbnail" alt="David R Syiemlieh" title="David R Syiemlieh"/>
+                <img src="<?=CMS_URL?>public/data/meetings/AM2017/1508578479647/profile.jpg" class="speaker-thumbnail" alt="David R Syiemlieh" title="David R Syiemlieh"/>
                 <figcaption class="figure-caption text-xs-right">David R Syiemlieh</figcaption>
             </a>
             <a href="<?=BASE_URL?>describe/profile/1508578565488">
-                <img src="http://www.ias.ac.in/ias-cms/public/data/meetings/1508578565488/profile.jpg" class="speaker-thumbnail" alt="R Bhatia" title="R Bhatia"/>
+                <img src="<?=CMS_URL?>public/data/meetings/AM2017/1508578565488/profile.jpg" class="speaker-thumbnail" alt="R Bhatia" title="R Bhatia"/>
                 <figcaption class="figure-caption text-xs-right">R Bhatia</figcaption>
             </a>
             <a href="<?=BASE_URL?>describe/profile/1508578634671">
-                <img src="http://www.ias.ac.in/ias-cms/public/data/meetings/1508578634671/profile.jpg" class="speaker-thumbnail" alt="S Sankararaman" title="S Sankararaman"/>
+                <img src="<?=CMS_URL?>public/data/meetings/AM2017/1508578634671/profile.jpg" class="speaker-thumbnail" alt="S Sankararaman" title="S Sankararaman"/>
                 <figcaption class="figure-caption text-xs-right">S Sankararaman</figcaption>
             </a>
             <a href="<?=BASE_URL?>describe/profile/1508578708917">
-                <img src="http://www.ias.ac.in/ias-cms/public/data/meetings/1508578708917/profile.jpg" class="speaker-thumbnail" alt="Maneesha S Inamdar" title="Maneesha S Inamdar"/>
+                <img src="<?=CMS_URL?>public/data/meetings/AM2017/1508578708917/profile.jpg" class="speaker-thumbnail" alt="Maneesha S Inamdar" title="Maneesha S Inamdar"/>
                 <figcaption class="figure-caption text-xs-right">Maneesha S Inamdar</figcaption>
             </a>
             <a href="<?=BASE_URL?>describe/profile/1508578754980">
-                <img src="http://www.ias.ac.in/ias-cms/public/data/meetings/1508578754980/profile.jpg" class="speaker-thumbnail" alt="Devesh Walia" title="Devesh Walia"/>
+                <img src="<?=CMS_URL?>public/data/meetings/AM2017/1508578754980/profile.jpg" class="speaker-thumbnail" alt="Devesh Walia" title="Devesh Walia"/>
                 <figcaption class="figure-caption text-xs-right">Devesh Walia</figcaption>
             </a>
             <a href="<?=BASE_URL?>describe/profile/1508578815850">
-                <img src="http://www.ias.ac.in/ias-cms/public/data/meetings/1508578815850/profile.jpg" class="speaker-thumbnail" alt="Rajneesh Bhutani" title="Rajneesh Bhutani"/>
+                <img src="<?=CMS_URL?>public/data/meetings/AM2017/1508578815850/profile.jpg" class="speaker-thumbnail" alt="Rajneesh Bhutani" title="Rajneesh Bhutani"/>
                 <figcaption class="figure-caption text-xs-right">Rajneesh Bhutani</figcaption>
             </a>
             <a href="<?=BASE_URL?>describe/profile/1508578881325">
-                <img src="http://www.ias.ac.in/ias-cms/public/data/meetings/1508578881325/profile.jpg" class="speaker-thumbnail" alt="Amalava Bhattacharyya" title="Amalava Bhattacharyya"/>
+                <img src="<?=CMS_URL?>public/data/meetings/AM2017/1508578881325/profile.jpg" class="speaker-thumbnail" alt="Amalava Bhattacharyya" title="Amalava Bhattacharyya"/>
                 <figcaption class="figure-caption text-xs-right">Amalava Bhattacharyya</figcaption>
             </a>
             <a href="<?=BASE_URL?>describe/profile/1508578929762">
-                <img src="http://www.ias.ac.in/ias-cms/public/data/meetings/1508578929762/profile.jpg" class="speaker-thumbnail" alt="Jyotiranjan S Ray" title="Jyotiranjan S Ray"/>
+                <img src="<?=CMS_URL?>public/data/meetings/AM2017/1508578929762/profile.jpg" class="speaker-thumbnail" alt="Jyotiranjan S Ray" title="Jyotiranjan S Ray"/>
                 <figcaption class="figure-caption text-xs-right">Jyotiranjan S Ray</figcaption>
             </a>
             <a href="<?=BASE_URL?>describe/profile/1508578970512">
-                <img src="http://www.ias.ac.in/ias-cms/public/data/meetings/1508578970512/profile.jpg" class="speaker-thumbnail" alt="Aditya Kumar" title="Aditya Kumar"/>
+                <img src="<?=CMS_URL?>public/data/meetings/AM2017/1508578970512/profile.jpg" class="speaker-thumbnail" alt="Aditya Kumar" title="Aditya Kumar"/>
                 <figcaption class="figure-caption text-xs-right">Aditya Kumar</figcaption>
             </a>
             <a href="<?=BASE_URL?>describe/profile/1508579173678">
-                <img src="http://www.ias.ac.in/ias-cms/public/data/meetings/1508579173678/profile.jpg" class="speaker-thumbnail" alt="Devendra Ojha" title="Devendra Ojha"/>
+                <img src="<?=CMS_URL?>public/data/meetings/AM2017/1508579173678/profile.jpg" class="speaker-thumbnail" alt="Devendra Ojha" title="Devendra Ojha"/>
                 <figcaption class="figure-caption text-xs-right">Devendra Ojha</figcaption>
             </a>
             <a href="<?=BASE_URL?>describe/profile/1508579240692">
-                <img src="http://www.ias.ac.in/ias-cms/public/data/meetings/1508579240692/profile.jpg" class="speaker-thumbnail" alt="Giridhar U Kulkarni" title="Giridhar U Kulkarni"/>
+                <img src="<?=CMS_URL?>public/data/meetings/AM2017/1508579240692/profile.jpg" class="speaker-thumbnail" alt="Giridhar U Kulkarni" title="Giridhar U Kulkarni"/>
                 <figcaption class="figure-caption text-xs-right">Giridhar U Kulkarni</figcaption>
             </a>
             <a href="<?=BASE_URL?>describe/profile/1508579345904">
-                <img src="http://www.ias.ac.in/ias-cms/public/data/meetings/1508579345904/profile.jpg" class="speaker-thumbnail" alt="Y Dhandapani" title="Y Dhandapani"/>
+                <img src="<?=CMS_URL?>public/data/meetings/AM2017/1508579345904/profile.jpg" class="speaker-thumbnail" alt="Y Dhandapani" title="Y Dhandapani"/>
                 <figcaption class="figure-caption text-xs-right">Y Dhandapani</figcaption>
             </a>
             <a href="<?=BASE_URL?>describe/profile/1508579421484">
-                <img src="http://www.ias.ac.in/ias-cms/public/data/meetings/1508579421484/profile.jpg" class="speaker-thumbnail" alt="Sanjoy Hazarika" title="Sanjoy Hazarika"/>
+                <img src="<?=CMS_URL?>public/data/meetings/AM2017/1508579421484/profile.jpg" class="speaker-thumbnail" alt="Sanjoy Hazarika" title="Sanjoy Hazarika"/>
                 <figcaption class="figure-caption text-xs-right">Sanjoy Hazarika</figcaption>
             </a>
             <a href="<?=BASE_URL?>describe/profile/1508579467434">
-                <img src="http://www.ias.ac.in/ias-cms/public/data/meetings/1508579467434/profile.jpg" class="speaker-thumbnail" alt="Kedovikho Yhoshu" title="Kedovikho Yhoshu"/>
+                <img src="<?=CMS_URL?>public/data/meetings/AM2017/1508579467434/profile.jpg" class="speaker-thumbnail" alt="Kedovikho Yhoshu" title="Kedovikho Yhoshu"/>
                 <figcaption class="figure-caption text-xs-right">Kedovikho Yhoshu</figcaption>
             </a>
             <a href="<?=BASE_URL?>describe/profile/1508579513314">
-                <img src="http://www.ias.ac.in/ias-cms/public/data/meetings/1508579513314/profile.jpg" class="speaker-thumbnail" alt="Ashutosh Ghosh" title="Ashutosh Ghosh"/>
+                <img src="<?=CMS_URL?>public/data/meetings/AM2017/1508579513314/profile.jpg" class="speaker-thumbnail" alt="Ashutosh Ghosh" title="Ashutosh Ghosh"/>
                 <figcaption class="figure-caption text-xs-right">Ashutosh Ghosh</figcaption>
             </a>
             <a href="<?=BASE_URL?>describe/profile/1508579567303">
-                <img src="http://www.ias.ac.in/ias-cms/public/data/meetings/1508579567303/profile.jpg" class="speaker-thumbnail" alt="Subhro Bhattacharjee" title="Subhro Bhattacharjee"/>
+                <img src="<?=CMS_URL?>public/data/meetings/AM2017/1508579567303/profile.jpg" class="speaker-thumbnail" alt="Subhro Bhattacharjee" title="Subhro Bhattacharjee"/>
                 <figcaption class="figure-caption text-xs-right">Subhro Bhattacharjee</figcaption>
             </a>
             <a href="<?=BASE_URL?>describe/profile/1508579612074">
-                <img src="http://www.ias.ac.in/ias-cms/public/data/meetings/1508579612074/profile.jpg" class="speaker-thumbnail" alt="Piyush Srivastava" title="Piyush Srivastava"/>
+                <img src="<?=CMS_URL?>public/data/meetings/AM2017/1508579612074/profile.jpg" class="speaker-thumbnail" alt="Piyush Srivastava" title="Piyush Srivastava"/>
                 <figcaption class="figure-caption text-xs-right">Piyush Srivastava</figcaption>
             </a>
             <a href="<?=BASE_URL?>describe/profile/1508580872780">
-                <img src="http://www.ias.ac.in/ias-cms/public/data/meetings/1508580872780/profile.jpg" class="speaker-thumbnail" alt="Kaustuv Sanyal" title="Kaustuv Sanyal"/>
+                <img src="<?=CMS_URL?>public/data/meetings/AM2017/1508580872780/profile.jpg" class="speaker-thumbnail" alt="Kaustuv Sanyal" title="Kaustuv Sanyal"/>
                 <figcaption class="figure-caption text-xs-right">Kaustuv Sanyal</figcaption>
             </a>
             <a href="<?=BASE_URL?>describe/profile/1508580905111">
-                <img src="http://www.ias.ac.in/ias-cms/public/data/meetings/1508580905111/profile.jpg" class="speaker-thumbnail" alt="Swapan K Datta" title="Swapan K Datta"/>
+                <img src="<?=CMS_URL?>public/data/meetings/AM2017/1508580905111/profile.jpg" class="speaker-thumbnail" alt="Swapan K Datta" title="Swapan K Datta"/>
                 <figcaption class="figure-caption text-xs-right">Swapan K Datta</figcaption>
             </a>
             <a href="<?=BASE_URL?>describe/profile/1508581081913">
-                <img src="http://www.ias.ac.in/ias-cms/public/data/meetings/1508581081913/profile.jpg" class="speaker-thumbnail" alt="Lalit Kumar" title="Lalit Kumar"/>
+                <img src="<?=CMS_URL?>public/data/meetings/AM2017/1508581081913/profile.jpg" class="speaker-thumbnail" alt="Lalit Kumar" title="Lalit Kumar"/>
                 <figcaption class="figure-caption text-xs-right">Lalit Kumar</figcaption>
             </a>
         </div>

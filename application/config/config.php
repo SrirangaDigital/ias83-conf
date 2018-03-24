@@ -1,6 +1,7 @@
 <?php
 
-define('BASE_URL', 'http://localhost/ias83-conf/');
+define('BASE_URL', 'http://192.168.1.101/ias83-conf/');
+define('CMS_URL', 'https://www.ias.ac.in/ias-cms/');
 define('PUBLIC_URL', BASE_URL . 'public/');
 define('XML_SRC_URL', BASE_URL . 'md-src/xml/');
 define('PHOTO_URL', PUBLIC_URL . 'Photos/');
